@@ -26,7 +26,7 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation    </td><td>    ⇧E     </td><td>   Yes    </td></tr>
 <tr><td> ±<var>x</var>                            </td><td> Negation               </td><td>    ⇧-     </td><td>   No    </td></tr>
 <tr><td> ⌥ (Option) </td><td> ±<var>x</var>       </td><td> Negation               </td><td>    ⌥-     </td><td>   Yes    </td></tr>
-<tr><td rowspan=18> Functions </td><td rowspan=3> ⇧ (Shift) </td><td> 1/<var>x</var> </td><td> Inverse (Reciprocal) </td><td> ⇧/ </td><td> No </td></tr>
+<tr><td rowspan=21> Functions </td><td rowspan=3> ⇧ (Shift) </td><td> 1/<var>x</var> </td><td> Inverse (Reciprocal) </td><td> ⇧/ </td><td> No </td></tr>
 <tr><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⇧2     </td><td>   No    </td></tr>
 <tr><td> <var>x</var><sup>3</sup>            </td><td> Cube   </td><td>    ⇧3     </td><td>   No    </td></tr>
 <tr><td rowspan=6> ⌘ (Command) </td><td> 10<sup><var>x</var></sup> </td><td> Power of 10 </td><td>    ⌘1     </td><td>   No    </td></tr>
