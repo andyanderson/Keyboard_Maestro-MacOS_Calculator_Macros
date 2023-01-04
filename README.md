@@ -16,28 +16,27 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> φ </td><td> 1.618… Golden Ratio        </td><td>       F        </td><td>   No     </td></tr>
 <tr><td> C </td><td> 0.915… Catalan’s Constant  </td><td>       C        </td><td>   No     </td></tr>
 <tr><td rowspan=12> Standard Operations </td><td rowspan=3> No Modifier </td><td>   = </td><td> Equals (Evaluate)   </td><td>    =     </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var> – <var>y</var> </td><td> Subtraction                  </td><td>     -      </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var> ÷ <var>y</var> </td><td> Division                     </td><td>     /      </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var> – <var>y</var>              </td><td> Subtraction            </td><td>     -     </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var> ÷ <var>y</var>              </td><td> Division               </td><td>     /     </td><td>   Yes    </td></tr>
 <tr><td rowspan=8> ⇧ (Shift) </td><td> <var>x</var> + <var>y</var> </td><td> Addition </td><td> + (⇧=) </td><td> Yes </td></tr>
-<tr><td> <var>x</var> × <var>y</var> </td><td> Multiplication                 </td><td>    * (⇧8)      </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var><sup><var>y</var></sup> </td><td> Exponentiation (Power) </td><td>    ^ (⇧6)     </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var>! </td><td> Factorial </td><td>    ! (⇧1)     </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var> × 100 </td><td> Percentage </td><td>    % (⇧5)     </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation </td><td>    ⇧E     </td><td>   Yes    </td></tr>
-<tr><td> 1/<var>x</var> </td><td> Inverse (Reciprocal)   </td><td>    ⇧/     </td><td>   No    </td></tr>
-<tr><td> ±<var>x</var> </td><td> Negation </td><td>    ⇧-     </td><td>   No    </td></tr>
-<tr><td> ⌥ (Option) </td><td> ±<var>x</var> </td><td> Negation </td><td>    ⌥-     </td><td>   Yes    </td></tr>
-<tr><td rowspan=2> Functions </td><td rowspan=2> ⌘ (Command) </td><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⌘2     </td><td>   No    </td></tr>
+<tr><td> <var>x</var> × <var>y</var>              </td><td> Multiplication         </td><td>    * (⇧8) </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var><sup><var>y</var></sup>      </td><td> Exponentiation (Power) </td><td>    ^ (⇧6) </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var>!                            </td><td> Factorial              </td><td>    ! (⇧1) </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var> × 100                       </td><td> Percentage             </td><td>    % (⇧5) </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation    </td><td>    ⇧E     </td><td>   Yes    </td></tr>
+<tr><td> 1/<var>x</var>                           </td><td> Inverse (Reciprocal)   </td><td>    ⇧/     </td><td>   No    </td></tr>
+<tr><td> ±<var>x</var>                            </td><td> Negation               </td><td>    ⇧-     </td><td>   No    </td></tr>
+<tr><td> ⌥ (Option) </td><td> ±<var>x</var>       </td><td> Negation               </td><td>    ⌥-     </td><td>   Yes    </td></tr>
+<tr><td rowspan=5> Functions </td><td rowspan=5> ⌘ (Command) </td><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⌘2     </td><td>   No    </td></tr>
 <tr><td> <var>x</var><sup>3</sup> </td><td> Cube   </td><td>    ⌘3     </td><td>   No    </td></tr>
+<tr><td> cos <var>x</var> </td><td> Cosine   </td><td>    ⌘K     </td><td>   No    </td></tr>
+<tr><td> sin <var>x</var> </td><td> Sine   </td><td>    ⌘N     </td><td>   No    </td></tr>
+<tr><td> tan <var>x</var> </td><td> Tangent   </td><td>    ⌘G     </td><td>   No    </td></tr>
 </table>
 
   
 * Keys with the  modifier:
 ** Functions:
-***  (, square)
-*** x^3 (⌘3, cube)
-*** 1/x (⌘I, reciprocal)
-*** trignometric
 ** Memory management:
 * Keys with the ^⌘ modifiers: additional operations (hyperbolic); views (basic, scientific, programmers)
 * Keys with the ⌥ modifier: inverse of the previous operations, including specific roots and logarithms.
