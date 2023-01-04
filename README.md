@@ -34,17 +34,17 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> cos <var>x</var> </td><td> Cosine   </td><td>    ⌘K     </td><td>   No    </td></tr>
 <tr><td> sin <var>x</var> </td><td> Sine     </td><td>    ⌘N     </td><td>   No    </td></tr>
 <tr><td> tan <var>x</var> </td><td> Tangent  </td><td>    ⌘G     </td><td>   No    </td></tr>
-<tr><td rowspan=2> ⌘^ (Command-Control) </td><td> cosh <var>x</var> </td><td> Hyperbolic Cosine   </td><td>    ⌘^K     </td><td>   No    </td></tr>
+<tr><td rowspan=3> ⌘^ (Command-Control) </td><td> cosh <var>x</var> </td><td> Hyperbolic Cosine   </td><td>    ⌘^K     </td><td>   No    </td></tr>
 <tr><td> sinh <var>x</var> </td><td> Hyperbolic Sine   </td><td>    ⌘^N     </td><td>   No    </td></tr>
 <tr><td> tanh <var>x</var> </td><td> Hyperbolic Tangent   </td><td>    ⌘^G     </td><td>   No    </td></tr>
-<tr><td rowspan=3> ⌘⌥ (Command-Option) </td>
+<tr><td rowspan=4> ⌘⌥ (Command-Option) </td><tr><td> 2<sup><var>x</var></sup> </td><td> Power of 2 </td><td>    ⌘^2     </td><td>   No    </td></tr>
 <tr><td> cos⁻¹ <var>x</var> </td><td> Inverse Cosine   </td><td>    ⌘⌥K     </td><td>   No    </td></tr>
 <tr><td> sin⁻¹ <var>x</var> </td><td> Inverse Sine   </td><td>    ⌘⌥N     </td><td>   No    </td></tr>
 <tr><td> tan⁻¹ <var>x</var> </td><td> Inverse Tangent   </td><td>    ⌘⌥G     </td><td>   No    </td></tr>
 <tr><td rowspan=3> ⌘⌥^ (Command-Option-Control) </td><td> cosh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Cosine   </td><td>    ⌘^K     </td><td>   No    </td></tr>
 <tr><td> sinh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Sine   </td><td>    ⌘⌥^N     </td><td>   No    </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Tangent   </td><td>    ⌘⌥^G     </td><td>   No    </td></tr>
-<tr><td rowspan=3> Memory </td><td rowspan=3> ⌘ (Command) </td><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⌘2     </td><td>   No    </td></tr>
+<tr><td rowspan=1> Memory </td><td rowspan=1> ⌘ (Command) </td><td> <var>x</var><sup>2</sup> </td><td> Memory Recall </td><td> ⌘R </td><td>   No    </td></tr>
 </table>
 
 
