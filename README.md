@@ -8,7 +8,7 @@ The MacOS calculator is good example; I use it regularly, usually for simple cal
 This set of macros provides a mostly complete set of such operations and also a few extras such as menu selections, especially where they conflict with commands I’d rather use for calculations, e.g. the Scientific view is assigned ^⌘S rather than ⌘2. My assignment system is as follows: 
 
 <table>
-<tr><th> Category                         </th><th>  Subcategory  </th><th> Description </th><th> Key Assignment </th><th> Built-In </th></tr>
+<tr><th align=center> Category                         </th><th align=center>  Subcategory  </th><th> Description </th><th> Key Assignment </th><th> Built-In </th></tr>
 <tr><td rowspan=9> Keys with no modifiers </td><td rowspan=6> Numbers </td><td> Digits </td><td> 0-9 </td><td> Yes </td></tr>
 <tr><td> π = 3.141… (Pi)                  </td><td>       P        </td><td>   Yes    </td></tr>
 <tr><td> e = 2.718… (Euler’s Number)      </td><td>       E        </td><td>   No     </td></tr>
