@@ -9,6 +9,7 @@ This set of macros provides a mostly complete set of such operations and also a 
 
 <table>
 <tr><th style="text-align: center"> Category                         </th><th style="text-align: center">  Subcategory  </th><th> Description </th><th style="text-align: center"> Key Assignment </th><th style="text-align: center"> Built-In </th></tr>
+| :---: | :---: | --- | :---: | :---: |
 <tr><td rowspan=9> Keys with no modifiers </td><td rowspan=6> Numbers </td><td> Digits </td><td> 0-9 </td><td> Yes </td></tr>
 <tr><td> π = 3.141… (Pi)                  </td><td>       P        </td><td>   Yes    </td></tr>
 <tr><td> e = 2.718… (Euler’s Number)      </td><td>       E        </td><td>   No     </td></tr>
