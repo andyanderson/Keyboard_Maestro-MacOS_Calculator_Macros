@@ -40,7 +40,7 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> tanh <var>x</var> </td><td> Hyperbolic Tangent   </td><td>    ⌘^G     </td><td>   No    </td></tr>
 <tr><td rowspan=3> ⇧⌥ (Shift-Option) </td><td>  √<var>x</var> </td><td> Square Root   </td><td>    ⇧⌥2     </td><td>   No    </td></tr>
 <tr><td> ∛<var>x</var>            </td><td> Cube Root   </td><td>    ⇧⌥3     </td><td>   No    </td></tr>
-<tr><td> <sup><var>y</var></sup>√<var>x</var>            </td><td> yth Root   </td><td>    ⇧Regularl⌥6     </td><td>   No    </td></tr>
+<tr><td> <sup><var>y</var></sup>√<var>x</var>            </td><td> yth Root   </td><td>    ⇧⌥6     </td><td>   No    </td></tr>
 <tr><td rowspan=6> ⌘⌥ (Command-Option) </td><td> log₁₀ <var>x</var> </td><td> Logarithm Base 10 </td><td>    ⌘⌥1     </td><td>   No    </td></tr>
 <tr><td> log₂ <var>x</var> </td><td> Logarithm Base 2 </td><td>    ⌘⌥2     </td><td>   No    </td></tr>
 <tr><td> log<sub><i>e</i></sub> <var>x</var> </td><td> Natural Logarithm </td><td>    ⌘⌥E     </td><td>   No    </td></tr>
