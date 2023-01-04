@@ -9,15 +9,15 @@ This set of macros provides a mostly complete set of such operations and also a 
 
 | Category               |  Subcategory        | Description                     | Key Assignment | Built-In |
 | :--------------------- | :------------------ | :------------------------------ | :------------: | :------: |
-| <td rowspan=5> Keys with no modifiers </td><td rowspan=5> Numbers             </td><td> Digits                          </td><td>      0-9       </td><td>   Yes    </td>|
-| |π = 3.141… (Pi)                 |       P        |   Yes    |
-|             ^          |    ^                | e = 2.718… (Euler’s Number)     |       E        |   No     |
-|             ^          |    ^                | γ = 0.577… (Euler’s Constant)   |       G        |   No     |
-|             ^          |    ^                | φ = 1.618… (Golden Ratio)       |       F        |   No     |
-|             ^          |    ^                | C = 0.915… (Catalan’s Constant) |       C        |   No     |
-|             ^          | Standard Operations | = (Equals)                      |       =        |   Yes    |
-|             ^          |    ^                | – (Subtraction)                 |       -        |   Yes    |
-|             ^          |    ^                | / (Division)                    |       /        |   Yes    |
+<td rowspan=9> Keys with no modifiers </td><td rowspan=6> Numbers             </td><td> Digits                          </td><td>      0-9       </td><td>   Yes    </td>
+| π = 3.141… (Pi)                 |       P        |   Yes    |
+| e = 2.718… (Euler’s Number)     |       E        |   No     |
+| γ = 0.577… (Euler’s Constant)   |       G        |   No     |
+| φ = 1.618… (Golden Ratio)       |       F        |   No     |
+| C = 0.915… (Catalan’s Constant) |       C        |   No     |
+<td rowspan=3> Standard Operations </td><td> = (Equals)                      </td><td>       =        </td><td>   Yes    </td>
+| – (Subtraction)                 |       -        |   Yes    |
+| / (Division)                    |       /        |   Yes    |
 * Keys with the ⬆ modifier:
 ** Standard Operations:
 *** x+y (⬆=)
