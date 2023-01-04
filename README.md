@@ -8,17 +8,17 @@ The MacOS calculator is a good example; I use it regularly, usually for simple c
 This set of macros provides a mostly complete set of such operations and also a few extras such as menu selections, especially where they conflict with commands I’d rather use for calculations, e.g. the Scientific view is assigned ^⌘S rather than ⌘2. My assignments are as follows: 
 
 <table>
-<tr><th> Modifier </th><th>  Category  </th><th> Symbol </th><th> Description </th><th> Key Assignment </th><th> Built-In </th></tr>
-<tr><td rowspan=9> None </td><td rowspan=6> Numbers </td><td> 0-9 </td><td> Digits </td><td> 0-9 </td><td> Yes </td></tr>
+<tr><th> Category </th><th>  Modifier  </th><th> Symbol </th><th> Description </th><th> Key Assignment </th><th> Built-In </th></tr>
+<tr><td rowspan=6> Numbers </td><td rowspan=6> None </td><td> 0-9 </td><td> Digits </td><td> 0-9 </td><td> Yes </td></tr>
 <tr><td> π </td><td> 3.141… Pi                  </td><td>       P        </td><td>   Yes    </td></tr>
 <tr><td> e </td><td> 2.718… Euler’s Number      </td><td>       E        </td><td>   No     </td></tr>
 <tr><td> γ </td><td> 0.577… Euler’s Constant    </td><td>       G        </td><td>   No     </td></tr>
 <tr><td> φ </td><td> 1.618… Golden Ratio        </td><td>       F        </td><td>   No     </td></tr>
 <tr><td> C </td><td> 0.915… Catalan’s Constant  </td><td>       C        </td><td>   No     </td></tr>
-<tr><td rowspan=3> Standard Operations    </td><td>   = </td><td> Equals (Evaluate)   </td><td>    =     </td><td>   Yes    </td></tr>
-  <tr><td> <var>x</var> – <var>y</var> </td><td> Subtraction                  </td><td>     -      </td><td>   Yes    </td></tr>
+<tr><td rowspan=8> Standard Operations </td><td rowspan=3> None </td><td>   = </td><td> Equals (Evaluate)   </td><td>    =     </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var> – <var>y</var> </td><td> Subtraction                  </td><td>     -      </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> / <var>y</var> </td><td> Division                     </td><td>     /      </td><td>   Yes    </td></tr>
-<tr><td rowspan=5> ⇧ (Shift) </td><td rowspan=5> Standard Operations </td><td> <var>x</var> + <var>y</var> </td><td> Addition </td><td> + (⇧=) </td><td> Yes </td></tr>
+<tr><td rowspan=5> ⇧ (Shift) </td><td> <var>x</var> + <var>y</var> </td><td> Addition </td><td> + (⇧=) </td><td> Yes </td></tr>
 <tr><td> <var>x</var> × <var>y</var> </td><td> Multiplication                 </td><td>    * (⇧8)      </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var><sup><var>y</var></sup> </td><td> Exponentiation (Power) </td><td>    ^ (⇧6)     </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> × 100 </td><td> Percentage </td><td>    % (⇧5)     </td><td>   Yes    </td></tr>
