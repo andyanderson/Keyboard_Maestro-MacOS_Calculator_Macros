@@ -18,15 +18,14 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td rowspan=3> Standard Operations    </td><td>   = </td><td> Equals (Evaluate)   </td><td>    =     </td><td>   Yes    </td></tr>
   <tr><td> <var>x</var> – <var>y</var> </td><td> Subtraction                  </td><td>     -      </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> / <var>y</var> </td><td> Division                     </td><td>     /      </td><td>   Yes    </td></tr>
-<tr><td rowspan=3> ⇧ (Shift) </td><td rowspan=3> Standard Operations </td><td> <var>x</var> + <var>y</var> </td><td> Addition </td><td> + (⇧=) </td><td> Yes </td></tr>
+<tr><td rowspan=5> ⇧ (Shift) </td><td rowspan=5> Standard Operations </td><td> <var>x</var> + <var>y</var> </td><td> Addition </td><td> + (⇧=) </td><td> Yes </td></tr>
 <tr><td> <var>x</var> × <var>y</var> </td><td> Multiplication                 </td><td>    * (⇧8)      </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var><sup><var>y</var></sup> </td><td> Exponentiation (Power) </td><td>    ^ (⇧6)     </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var> × 100 </td><td> Percentage </td><td>    % (⇧5)     </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation </td><td>    ⇧E     </td><td>   Yes    </td></tr>
 </table>
 
   
-** Standard Operations:
-*** x\*100 (⇧5, % percent)
-*** x\*10^y (⇧E, scientific notation)
 * Keys with the ⌘ modifier:
 ** Functions:
 *** x^2 (⌘2, square)
