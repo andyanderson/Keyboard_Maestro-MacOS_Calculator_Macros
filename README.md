@@ -20,27 +20,31 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> <var>x</var> ÷ <var>y</var>              </td><td> Division               </td><td>     /     </td><td>   Yes    </td></tr>
 <tr><td rowspan=8> ⇧ (Shift) </td><td> <var>x</var> + <var>y</var> </td><td> Addition </td><td> + (⇧=) </td><td> Yes </td></tr>
 <tr><td> <var>x</var> × <var>y</var>              </td><td> Multiplication         </td><td>    * (⇧8) </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var><sup><var>y</var></sup>      </td><td> Exponentiation (Power) </td><td>    ^ (⇧6) </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var><sup><var>y</var></sup>      </td><td> Power (Exponentiation) </td><td>    ^ (⇧6) </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var>!                            </td><td> Factorial              </td><td>    ! (⇧1) </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> × 100                       </td><td> Percentage             </td><td>    % (⇧5) </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation    </td><td>    ⇧E     </td><td>   Yes    </td></tr>
 <tr><td> 1/<var>x</var>                           </td><td> Inverse (Reciprocal)   </td><td>    ⇧/     </td><td>   No    </td></tr>
 <tr><td> ±<var>x</var>                            </td><td> Negation               </td><td>    ⇧-     </td><td>   No    </td></tr>
 <tr><td> ⌥ (Option) </td><td> ±<var>x</var>       </td><td> Negation               </td><td>    ⌥-     </td><td>   Yes    </td></tr>
-<tr><td rowspan=14> Functions </td><td rowspan=5> ⌘ (Command) </td><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⌘2     </td><td>   No    </td></tr>
-<tr><td> <var>x</var><sup>3</sup> </td><td> Cube   </td><td>    ⌘3     </td><td>   No    </td></tr>
+<tr><td rowspan=16> Functions </td><td rowspan=7> ⌘ (Command) </td><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⌘2     </td><td>   No    </td></tr>
+<tr><td> <var>x</var><sup>3</sup>            </td><td> Cube   </td><td>    ⌘3     </td><td>   No    </td></tr>
+<tr><td> 10<sup><var>x</var></sup> </td><td> Power of 10 </td><td>    ⌘1     </td><td>   No    </td></tr>
+<tr><td> <var>e</var><sup><var>x</var></sup> </td><td> Exponential Function </td><td>    ⌘E     </td><td>   No    </td></tr>
 <tr><td> cos <var>x</var> </td><td> Cosine   </td><td>    ⌘K     </td><td>   No    </td></tr>
-<tr><td> sin <var>x</var> </td><td> Sine   </td><td>    ⌘N     </td><td>   No    </td></tr>
-<tr><td> tan <var>x</var> </td><td> Tangent   </td><td>    ⌘G     </td><td>   No    </td></tr>
+<tr><td> sin <var>x</var> </td><td> Sine     </td><td>    ⌘N     </td><td>   No    </td></tr>
+<tr><td> tan <var>x</var> </td><td> Tangent  </td><td>    ⌘G     </td><td>   No    </td></tr>
 <tr><td rowspan=3> ⌘^ (Command-Control) </td><td> cosh <var>x</var> </td><td> Hyperbolic Cosine   </td><td>    ⌘^K     </td><td>   No    </td></tr>
 <tr><td> sinh <var>x</var> </td><td> Hyperbolic Sine   </td><td>    ⌘^N     </td><td>   No    </td></tr>
 <tr><td> tanh <var>x</var> </td><td> Hyperbolic Tangent   </td><td>    ⌘^G     </td><td>   No    </td></tr>
-<tr><td rowspan=3> ⌘⌥ (Command-Option) </td><td> cos⁻¹ <var>x</var> </td><td> Inverse Cosine   </td><td>    ⌘⌥K     </td><td>   No    </td></tr>
+<tr><td rowspan=3> ⌘⌥ (Command-Option) </td>
+<tr><td> cos⁻¹ <var>x</var> </td><td> Inverse Cosine   </td><td>    ⌘⌥K     </td><td>   No    </td></tr>
 <tr><td> sin⁻¹ <var>x</var> </td><td> Inverse Sine   </td><td>    ⌘⌥N     </td><td>   No    </td></tr>
 <tr><td> tan⁻¹ <var>x</var> </td><td> Inverse Tangent   </td><td>    ⌘⌥G     </td><td>   No    </td></tr>
-<tr><td rowspan=3> ⌘⌥^ (Command-Option-Control) </td><td> cosh <var>x</var> </td><td> Inverse Hyperbolic Cosine   </td><td>    ⌘^K     </td><td>   No    </td></tr>
+<tr><td rowspan=3> ⌘⌥^ (Command-Option-Control) </td><td> cosh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Cosine   </td><td>    ⌘^K     </td><td>   No    </td></tr>
 <tr><td> sinh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Sine   </td><td>    ⌘⌥^N     </td><td>   No    </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Tangent   </td><td>    ⌘⌥^G     </td><td>   No    </td></tr>
+<tr><td rowspan=3> Memory </td><td rowspan=3> ⌘ (Command) </td><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⌘2     </td><td>   No    </td></tr>
 </table>
 
 
