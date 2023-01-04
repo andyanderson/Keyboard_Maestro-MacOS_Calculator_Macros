@@ -15,18 +15,17 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> γ </td><td> 0.577… Euler’s Constant    </td><td>       G        </td><td>   No     </td></tr>
 <tr><td> φ </td><td> 1.618… Golden Ratio        </td><td>       F        </td><td>   No     </td></tr>
 <tr><td> C </td><td> 0.915… Catalan’s Constant  </td><td>       C        </td><td>   No     </td></tr>
-<tr><td rowspan=3> Standard Operations    </td><td>   = </td><td> Equals   </td><td>    =     </td><td>   Yes    </td></tr>
-<tr><td> – </td><td> Subtraction                  </td><td>       -        </td><td>   Yes    </td></tr>
-<tr><td> / </td><td> Division                     </td><td>       /        </td><td>   Yes    </td></tr>
-<tr><td rowspan=1> ⬆ (Shift) </td><td rowspan=1> Standard Operations </td><td> x+y </td><td> Addition </td><td> ⬆= </td><td> Yes </td></tr>
+<tr><td rowspan=3> Standard Operations    </td><td>   = </td><td> Equals (Evaluate)   </td><td>    =     </td><td>   Yes    </td></tr>
+<tr><td> – </td><td> Subtraction                  </td><td>     x - y      </td><td>   Yes    </td></tr>
+<tr><td> / </td><td> Division                     </td><td>     x / y      </td><td>   Yes    </td></tr>
+<tr><td rowspan=3> ⬆ (Shift) </td><td rowspan=3> Standard Operations </td><td> x + y </td><td> Addition </td><td> ⬆= </td><td> Yes </td></tr>
+<tr><td> x × y </td><td> Multiplication                 </td><td>    \* (⬆8)      </td><td>   Yes    </td></tr>
+<tr><td> x<sup>y</sup> </td><td> Exponentiation (Power) </td><td>     ^ (⬆6)     </td><td>   Yes    </td></tr>
 </table>
 
   
 * Keys with the ⬆ modifier:
 ** Standard Operations:
-*** x+y (⬆=)
-*** x\*y (⬆8)
-*** x^y (⬆6, power)
 *** x\*100 (⬆5, % percent)
 *** x\*10^y (⬆E, scientific notation)
 * Keys with the ⌘ modifier:
