@@ -3,7 +3,7 @@
 
 I prefer to use keyboard commands on MacOS as much as possible. I therefore use the Mac utility [Keyboard Maestro](https://www.keyboardmaestro.com/main/) to add my own key assignments to make up for those lacking within applications for my common tasks, increasing my productivity.
 
-The MacOS calculator is a good example; I use it regularly, usually for simple calculations, but occasionally for more involved ones, too. For example, squaring a number has a button but no keyboard access, so I assign that to ⌘2.
+The MacOS calculator is a good example; I use it regularly, usually for simple calculations, but occasionally for more involved ones, too. For example, squaring a number has a button but no keyboard access, so I assign that to ⇧2, and powers of 2 are assigned to ⌘2.
 
 This set of macros provides a mostly complete set of such operations and also a few extras such as menu selections, especially where they conflict with commands I’d rather use for calculations, e.g. the Scientific view is assigned ^⌘S rather than ⌘2. My assignments are as follows: 
 
@@ -27,8 +27,8 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> ±<var>x</var>                            </td><td> Negation               </td><td>    ⇧-     </td><td>   No    </td></tr>
 <tr><td> ⌥ (Option) </td><td> ±<var>x</var>       </td><td> Negation               </td><td>    ⌥-     </td><td>   Yes    </td></tr>
 <tr><td rowspan=18> Functions </td><td rowspan=3> ⇧ (Shift) </td><td> 1/<var>x</var> </td><td> Inverse (Reciprocal) </td><td> ⇧/ </td><td> No </td></tr>
-<tr><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⌘2     </td><td>   No    </td></tr>
-<tr><td> <var>x</var><sup>3</sup>            </td><td> Cube   </td><td>    ⌘3     </td><td>   No    </td></tr>
+<tr><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⇧2     </td><td>   No    </td></tr>
+<tr><td> <var>x</var><sup>3</sup>            </td><td> Cube   </td><td>    ⇧3     </td><td>   No    </td></tr>
 <tr><td rowspan=5> ⌘ (Command) </td><td> 10<sup><var>x</var></sup> </td><td> Power of 10 </td><td>    ⌘1     </td><td>   No    </td></tr>
 <tr><td> <var>e</var><sup><var>x</var></sup> </td><td> Exponential Function </td><td>    ⌘E     </td><td>   No    </td></tr>
 <tr><td> cos <var>x</var> </td><td> Cosine   </td><td>    ⌘K     </td><td>   No    </td></tr>
