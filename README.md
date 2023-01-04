@@ -9,7 +9,7 @@ This set of macros provides a mostly complete set of such operations and also a 
 
 | Category |  Subcategory  | Description | Key Assignment | Built-In |
 | :---: | :---: | --- | :---: | :---: |
-| <td> Keys with no modifiers </td><td> Numbers </td><td> Digits </td><td> 0-9 </td><td> Yes </td> |
+|<td> Keys with no modifiers </td><td> Numbers </td><td> Digits </td><td> 0-9 </td><td> Yes </td>|
 
 
 <tr><td> π = 3.141… (Pi)                  </td><td>       P        </td><td>   Yes    </td></tr>
