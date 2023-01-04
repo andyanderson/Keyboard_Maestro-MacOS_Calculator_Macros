@@ -16,7 +16,7 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> φ </td><td> 1.618… Golden Ratio        </td><td>       F        </td><td>   No     </td></tr>
 <tr><td> C </td><td> 0.915… Catalan’s Constant  </td><td>       C        </td><td>   No     </td></tr>
 <tr><td rowspan=3> Standard Operations    </td><td>   = </td><td> Equals (Evaluate)   </td><td>    =     </td><td>   Yes    </td></tr>
-<tr><td> *x* – *y* </td><td> Subtraction                  </td><td>     -      </td><td>   Yes    </td></tr>
+<tr><td> _x_ – *y* </td><td> Subtraction                  </td><td>     -      </td><td>   Yes    </td></tr>
 <tr><td> *x* / *y* </td><td> Division                     </td><td>     /      </td><td>   Yes    </td></tr>
 <tr><td rowspan=3> ⇧ (Shift) </td><td rowspan=3> Standard Operations </td><td> *x* + *y* </td><td> Addition </td><td> ⇧= </td><td> Yes </td></tr>
 <tr><td> *x* × *y* </td><td> Multiplication                 </td><td>    * (⇧8)      </td><td>   Yes    </td></tr>
@@ -24,10 +24,9 @@ This set of macros provides a mostly complete set of such operations and also a 
 </table>
 
   
-* Keys with the ⬆ modifier:
 ** Standard Operations:
-*** x\*100 (⬆5, % percent)
-*** x\*10^y (⬆E, scientific notation)
+*** x\*100 (⇧5, % percent)
+*** x\*10^y (⇧E, scientific notation)
 * Keys with the ⌘ modifier:
 ** Functions:
 *** x^2 (⌘2, square)
