@@ -9,7 +9,7 @@ This set of macros provides a mostly complete set of such operations and also a 
 
 | Category               |  Subcategory        | Description                     | Key Assignment | Built-In |
 | :--------------------- | :------------------ | :------------------------------ | :------------: | :------: |
-<tr><td rowspan=9> Keys with no modifiers </td><td rowspan=6> Numbers             </td><td> Digits                          </td><td>      0-9       </td><td>   Yes    </td></tr>
+<tr><td rowspan=6> Keys with no modifiers </td><td rowspan=6> Numbers             </td><td> Digits                          </td><td>      0-9       </td><td>   Yes    </td></tr>
 ||| π = 3.141… (Pi)                 |       P        |   Yes    |
 ||| e = 2.718… (Euler’s Number)     |       E        |   No     |
 ||| γ = 0.577… (Euler’s Constant)   |       G        |   No     |
