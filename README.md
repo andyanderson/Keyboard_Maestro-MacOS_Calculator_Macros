@@ -7,18 +7,20 @@ The MacOS calculator is good example; I use it regularly, usually for simple cal
 
 This set of macros provides a mostly complete set of such operations and also a few extras such as menu selections, especially where they conflict with commands I’d rather use for calculations, e.g. the Scientific view is assigned ^⌘S rather than ⌘2. My assignment system is as follows: 
 
-| Category               |  Subcategory        | Description                     | Key Assignment | Built-In |
-| :--------------------- | :------------------ | :------------------------------ | :------------: | :------: |
-| <td rowspan=6> Keys with no modifiers </td><td rowspan=6> Numbers             </td><td> Digits                          </td><td>      0-9       </td><td>   Yes    </td> |
-||| π = 3.141… (Pi)                 |       P        |   Yes    |
-||| e = 2.718… (Euler’s Number)     |       E        |   No     |
-||| γ = 0.577… (Euler’s Constant)   |       G        |   No     |
-||| φ = 1.618… (Golden Ratio)       |       F        |   No     |
-||| C = 0.915… (Catalan’s Constant) |       C        |   No     |
+<table>
+<tr><th> Category                         </th><th>  Subcategory  </th><th> Description </th><th> Key Assignment </th><th> Built-In </th></tr>
+<tr><td rowspan=9> Keys with no modifiers </td><td rowspan=6> Numbers </td><td> Digits </td><td> 0-9 </td><td> Yes </td></tr>
+<tr><td> π = 3.141… (Pi)                  </td><td>       P        </td><td>   Yes    </td></tr>
+<tr><td> e = 2.718… (Euler’s Number)      </td><td>       E        </td><td>   No     </td></tr>
+<tr><td> γ = 0.577… (Euler’s Constant)    </td><td>       G        </td><td>   No     </td></tr>
+<tr><td> φ = 1.618… (Golden Ratio)        </td><td>       F        </td><td>   No     </td></tr>
+<tr><td> C = 0.915… (Catalan’s Constant)  </td><td>       C        </td><td>   No     </td></tr>
+<tr><td rowspan=3> Standard Operations    </td><td>   = (Equals)   </td><td>    =     </td><td>   Yes    </td></tr>
+<tr><td> – (Subtraction)                  </td><td>       -        </td><td>   Yes    </td></tr>
+<tr><td> / (Division)                     </td><td>       /        </td><td>   Yes    </td></tr>
+</table>
 
-<td rowspan=3> Standard Operations </td><td> = (Equals)                      </td><td>       =        </td><td>   Yes    </td>
-| – (Subtraction)                 |       -        |   Yes    |
-| / (Division)                    |       /        |   Yes    |
+  
 * Keys with the ⬆ modifier:
 ** Standard Operations:
 *** x+y (⬆=)
