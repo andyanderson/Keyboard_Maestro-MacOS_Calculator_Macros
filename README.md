@@ -34,7 +34,7 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> cos <var>x</var> </td><td> Cosine   </td><td>    ⌘K     </td><td>   No    </td></tr>
 <tr><td> sin <var>x</var> </td><td> Sine     </td><td>    ⌘N     </td><td>   No    </td></tr>
 <tr><td> tan <var>x</var> </td><td> Tangent  </td><td>    ⌘G     </td><td>   No    </td></tr>
-<tr><td rowspan=3> ⌘^ (Command-Control) </td><td> cosh <var>x</var> </td><td> Hyperbolic Cosine   </td><td>    ⌘^K     </td><td>   No    </td></tr>
+<tr><td rowspan=2> ⌘^ (Command-Control) </td><td> cosh <var>x</var> </td><td> Hyperbolic Cosine   </td><td>    ⌘^K     </td><td>   No    </td></tr>
 <tr><td> sinh <var>x</var> </td><td> Hyperbolic Sine   </td><td>    ⌘^N     </td><td>   No    </td></tr>
 <tr><td> tanh <var>x</var> </td><td> Hyperbolic Tangent   </td><td>    ⌘^G     </td><td>   No    </td></tr>
 <tr><td rowspan=3> ⌘⌥ (Command-Option) </td>
