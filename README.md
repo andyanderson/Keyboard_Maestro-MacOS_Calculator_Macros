@@ -29,13 +29,13 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td rowspan=18> Functions </td><td rowspan=3> ⇧ (Shift) </td><td> 1/<var>x</var> </td><td> Inverse (Reciprocal) </td><td> ⇧/ </td><td> No </td></tr>
 <tr><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⇧2     </td><td>   No    </td></tr>
 <tr><td> <var>x</var><sup>3</sup>            </td><td> Cube   </td><td>    ⇧3     </td><td>   No    </td></tr>
-<tr><td rowspan=5> ⌘ (Command) </td><td> 10<sup><var>x</var></sup> </td><td> Power of 10 </td><td>    ⌘1     </td><td>   No    </td></tr>
+<tr><td rowspan=6> ⌘ (Command) </td><td> 10<sup><var>x</var></sup> </td><td> Power of 10 </td><td>    ⌘1     </td><td>   No    </td></tr>
+<tr><td> 2<sup><var>x</var></sup> </td><td> Power of 2 </td><td>    ⌘2     </td><td>   No    </td></tr>
 <tr><td> <var>e</var><sup><var>x</var></sup> </td><td> Exponential Function </td><td>    ⌘E     </td><td>   No    </td></tr>
 <tr><td> cos <var>x</var> </td><td> Cosine   </td><td>    ⌘K     </td><td>   No    </td></tr>
 <tr><td> sin <var>x</var> </td><td> Sine     </td><td>    ⌘N     </td><td>   No    </td></tr>
 <tr><td> tan <var>x</var> </td><td> Tangent  </td><td>    ⌘G     </td><td>   No    </td></tr>
-<tr><td rowspan=4> ⌘^ (Command-Control) </td><td> 2<sup><var>x</var></sup> </td><td> Power of 2 </td><td>    ⌘^2     </td><td>   No    </td></tr>
-<tr><td> cosh <var>x</var> </td><td> Hyperbolic Cosine   </td><td>    ⌘^K     </td><td>   No    </td></tr>
+<tr><td rowspan=3> ⌘^ (Command-Control) </td><td> cosh <var>x</var> </td><td> Hyperbolic Cosine   </td><td>    ⌘^K     </td><td>   No    </td></tr>
 <tr><td> sinh <var>x</var> </td><td> Hyperbolic Sine   </td><td>    ⌘^N     </td><td>   No    </td></tr>
 <tr><td> tanh <var>x</var> </td><td> Hyperbolic Tangent   </td><td>    ⌘^G     </td><td>   No    </td></tr>
 <tr><td rowspan=3> ⌘⌥ (Command-Option) </td><td> cos⁻¹ <var>x</var> </td><td> Inverse Cosine   </td><td>    ⌘⌥K     </td><td>   No    </td></tr>
