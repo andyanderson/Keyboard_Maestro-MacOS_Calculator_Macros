@@ -9,13 +9,13 @@ This set of macros provides a mostly complete set of such operations and also a 
 
 <table>
 <tr><th> Category </th><th>  Modifier  </th><th> Symbol </th><th> Description </th><th> Key Assignment </th><th> Built-In </th></tr>
-<tr><td rowspan=6> Numbers </td><td rowspan=6> None </td><td> 0-9 </td><td> Digits </td><td> 0-9 </td><td> Yes </td></tr>
+<tr><td rowspan=6> Numbers </td><td rowspan=6> No Modifier </td><td> 0-9 </td><td> Digits </td><td> 0-9 </td><td> Yes </td></tr>
 <tr><td> π </td><td> 3.141… Pi                  </td><td>       P        </td><td>   Yes    </td></tr>
 <tr><td> e </td><td> 2.718… Euler’s Number      </td><td>       E        </td><td>   No     </td></tr>
 <tr><td> γ </td><td> 0.577… Euler’s Constant    </td><td>       G        </td><td>   No     </td></tr>
 <tr><td> φ </td><td> 1.618… Golden Ratio        </td><td>       F        </td><td>   No     </td></tr>
 <tr><td> C </td><td> 0.915… Catalan’s Constant  </td><td>       C        </td><td>   No     </td></tr>
-<tr><td rowspan=9> Standard Operations </td><td rowspan=3> None </td><td>   = </td><td> Equals (Evaluate)   </td><td>    =     </td><td>   Yes    </td></tr>
+<tr><td rowspan=9> Standard Operations </td><td rowspan=3> No Modifier </td><td>   = </td><td> Equals (Evaluate)   </td><td>    =     </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> – <var>y</var> </td><td> Subtraction                  </td><td>     -      </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> ÷ <var>y</var> </td><td> Division                     </td><td>     /      </td><td>   Yes    </td></tr>
 <tr><td rowspan=5> ⇧ (Shift) </td><td> <var>x</var> + <var>y</var> </td><td> Addition </td><td> + (⇧=) </td><td> Yes </td></tr>
@@ -24,12 +24,13 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> <var>x</var> × 100 </td><td> Percentage </td><td>    % (⇧5)     </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation </td><td>    ⇧E     </td><td>   Yes    </td></tr>
 <tr><td> ⌥ (Option) </td><td> ±<var>x</var> </td><td> Negation </td><td>    ⌥-     </td><td>   Yes    </td></tr>
+<tr><td rowspan=1> Functions </td><td rowspan=1> ⌘ (Command) </td><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⌘2     </td><td>   Yes    </td></tr>
 </table>
 
   
-* Keys with the ⌘ modifier:
+* Keys with the  modifier:
 ** Functions:
-*** x^2 (⌘2, square)
+***  (, square)
 *** x^3 (⌘3, cube)
 *** 1/x (⌘I, reciprocal)
 *** trignometric
