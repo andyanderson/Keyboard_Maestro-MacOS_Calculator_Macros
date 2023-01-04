@@ -15,9 +15,9 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> γ </td><td> 0.577… Euler’s Constant    </td><td>       G        </td><td>   No     </td></tr>
 <tr><td> φ </td><td> 1.618… Golden Ratio        </td><td>       F        </td><td>   No     </td></tr>
 <tr><td> C </td><td> 0.915… Catalan’s Constant  </td><td>       C        </td><td>   No     </td></tr>
-<tr><td rowspan=3> Standard Operations    </td><td>   = (Equals)   </td><td>    =     </td><td>   Yes    </td></tr>
-<tr><td> – (Subtraction)                  </td><td>       -        </td><td>   Yes    </td></tr>
-<tr><td> / (Division)                     </td><td>       /        </td><td>   Yes    </td></tr>
+<tr><td rowspan=3> Standard Operations    </td><td>   = </td><td> Equals   </td><td>    =     </td><td>   Yes    </td></tr>
+<tr><td> – </td><td> Subtraction                  </td><td>       -        </td><td>   Yes    </td></tr>
+<tr><td> / </td><td> Division                     </td><td>       /        </td><td>   Yes    </td></tr>
 </table>
 
   
