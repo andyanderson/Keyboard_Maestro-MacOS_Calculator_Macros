@@ -26,7 +26,7 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation    </td><td>    ⇧E     </td><td>   Yes    </td></tr>
 <tr><td> ±<var>x</var>                            </td><td> Negation               </td><td>    ⇧-     </td><td>   No    </td></tr>
 <tr><td> ⌥ (Option) </td><td> ±<var>x</var>       </td><td> Negation               </td><td>    ⌥-     </td><td>   Yes    </td></tr>
-<tr><td rowspan=21> Functions </td><td rowspan=3> ⇧ (Shift) </td><td> 1/<var>x</var> </td><td> Inverse (Reciprocal) </td><td> ⇧/ </td><td> No </td></tr>
+<tr><td rowspan=24> Functions </td><td rowspan=3> ⇧ (Shift) </td><td> 1/<var>x</var> </td><td> Inverse (Reciprocal) </td><td> ⇧/ </td><td> No </td></tr>
 <tr><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⇧2     </td><td>   No    </td></tr>
 <tr><td> <var>x</var><sup>3</sup>            </td><td> Cube   </td><td>    ⇧3     </td><td>   No    </td></tr>
 <tr><td rowspan=6> ⌘ (Command) </td><td> 10<sup><var>x</var></sup> </td><td> Power of 10 </td><td>    ⌘1     </td><td>   No    </td></tr>
@@ -38,6 +38,9 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td rowspan=3> ⌘^ (Command-Control) </td><td> cosh <var>x</var> </td><td> Hyperbolic Cosine   </td><td>    ⌘^K     </td><td>   No    </td></tr>
 <tr><td> sinh <var>x</var> </td><td> Hyperbolic Sine   </td><td>    ⌘^N     </td><td>   No    </td></tr>
 <tr><td> tanh <var>x</var> </td><td> Hyperbolic Tangent   </td><td>    ⌘^G     </td><td>   No    </td></tr>
+<tr><td rowspan=3> ⌥⇧ (Option-Shift) </td><td>  √<var>x</var> </td><td> Square Root   </td><td>    ⌥⇧2     </td><td>   No    </td></tr>
+<tr><td> ∛<var>x</var>            </td><td> Cube Root   </td><td>    ⌥⇧3     </td><td>   No    </td></tr>
+<tr><td> <sup><var>y</var></sup>√<var>x</var>            </td><td> yth Root   </td><td>    ⌥⇧6     </td><td>   No    </td></tr>
 <tr><td rowspan=6> ⌘⌥ (Command-Option) </td><td> log₁₀ <var>x</var> </td><td> Logarithm Base 10 </td><td>    ⌘⌥1     </td><td>   No    </td></tr>
 <tr><td> log₂ <var>x</var> </td><td> Logarithm Base 2 </td><td>    ⌘⌥2     </td><td>   No    </td></tr>
 <tr><td> log<sub><i>e</i></sub> <var>x</var> </td><td> Natural Logarithm </td><td>    ⌘⌥E     </td><td>   No    </td></tr>
