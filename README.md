@@ -3,15 +3,13 @@
 
 I prefer to use keyboard commands on MacOS as much as possible. I therefore use the Mac utility [Keyboard Maestro](https://www.keyboardmaestro.com/main/) to add my own key assignments to make up for those lacking within applications for my common tasks, increasing my productivity.
 
-The MacOS calculator is good example; I use it regularly, usually for simple calculations, but occasionally for more involved ones, too. For example, squaring a number has a button but no keyboard access, so I assign that to ⌘2.
+The MacOS calculator is a good example; I use it regularly, usually for simple calculations, but occasionally for more involved ones, too. For example, squaring a number has a button but no keyboard access, so I assign that to ⌘2.
 
 This set of macros provides a mostly complete set of such operations and also a few extras such as menu selections, especially where they conflict with commands I’d rather use for calculations, e.g. the Scientific view is assigned ^⌘S rather than ⌘2. My assignment system is as follows: 
 
-| Category |  Subcategory  | Description | Key Assignment | Built-In |
-| :---: | :---: | --- | :---: | :---: |
-|<td>Keys with no modifiers</td><td>Numbers</td><td>Digits</td><td>0-9</td><td>Yes</td>|
-
-
+<table>
+<tr><th> Category </th><th>  Subcategory  </th><th> Description </th><th> Key Assignment </th><th> Built-In </th></tr>
+<tr><td rowspan=9>Keys with no modifiers</td><td rowspan=6>Numbers</td><td>Digits</td><td>0-9</td><td>Yes</td></tr>
 <tr><td> π = 3.141… (Pi)                  </td><td>       P        </td><td>   Yes    </td></tr>
 <tr><td> e = 2.718… (Euler’s Number)      </td><td>       E        </td><td>   No     </td></tr>
 <tr><td> γ = 0.577… (Euler’s Constant)    </td><td>       G        </td><td>   No     </td></tr>
