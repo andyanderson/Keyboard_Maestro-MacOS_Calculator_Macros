@@ -25,8 +25,8 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> <var>x</var>!                            </td><td> Factorial              </td><td>    ! (⇧1) </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> × 100                       </td><td> Percentage             </td><td>    % (⇧5) </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation    </td><td>    ⇧E     </td><td>   Yes    </td></tr>
-<tr><td> ±<var>x</var>                            </td><td> Negation               </td><td>    ⇧-     </td><td>   No    </td></tr>
-<tr><td> ⌥ (Option) </td><td> ±<var>x</var>       </td><td> Negation               </td><td>    ⌥-     </td><td>   Yes    </td></tr>
+<tr><td rowspan=2> ±<var>x</var>                  </td><td rowspan=2> Negation     </td><td>    ⇧-     </td><td>   No    </td></tr>
+<tr><td>    ⌥-     </td><td>   Yes    </td></tr>
 <tr><td rowspan=25> Functions </td><td> 1/<var>x</var> </td><td> Inverse (Reciprocal) </td><td> ⇧/ </td><td> No </td></tr>
 <tr><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⇧2     </td><td>   No    </td></tr>
 <tr><td> <var>x</var><sup>3</sup>            </td><td> Cube   </td><td>    ⇧3     </td><td>   No    </td></tr>
@@ -60,7 +60,6 @@ This set of macros provides a mostly complete set of such operations and also a 
 </table>
 
 
-** Memory management:
 * Keys with the ^⌘ modifiers: views (basic, scientific, programmers)
 ** ± (the latter is ⌥- in the calculator rather than the default MacOS ⌥=±)
 
