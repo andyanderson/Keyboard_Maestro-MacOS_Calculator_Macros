@@ -13,18 +13,24 @@ My key assignments are in the following table, using the following symbols for k
 <tr><th> Category </th>         <th> Symbol </th>   <th> Description </th>              <th> Key Assignment </th> <th> Built-In </th></tr>
 
 <tr><td rowspan=6> Numbers </td>
-    <td> 0, 1, … 9 </td> <td> Digits </td>                   <td> 0, 1, … 9 </td> <td> Yes </td></tr>
-<tr><td> <i>π</i> </td>  <td> 3.141… Pi </td>                <td> P         </td> <td> Yes </td></tr>
-<tr><td> <i>e</i> </td>  <td> 2.718… Euler’s Number </td>    <td> E         </td> <td> No </td></tr>
-<tr><td> <i>γ</i> </td>  <td> 0.577… Euler’s Constant </td>  <td> G         </td> <td> No </td></tr>
-<tr><td> <i>φ</i> </td>  <td> 1.618… Golden Ratio</td>       <td> F         </td> <td> No </td></tr>
-<tr><td> Rand     </td>  <td> 0 ≤ Random Number < 1</td>     <td> R         </td> <td> No </td></tr>
+    <td> 0, 1, … 9 </td>  <td> Digits </td>                   <td> 0, 1, … 9 </td>  <td> Yes </td></tr>
+<tr><td> <i>π</i> </td>   <td> 3.141… Pi </td>                <td> P         </td>  <td> Yes </td></tr>
+<tr><td> <i>e</i> </td>   <td> 2.718… Euler’s Number </td>    <td> E         </td>  <td> No </td></tr>
+<tr><td> <i>γ</i> </td>   <td> 0.577… Euler’s Constant </td>  <td> G         </td>  <td> No </td></tr>
+<tr><td> <i>φ</i> </td>   <td> 1.618… Golden Ratio</td>       <td> F         </td>  <td> No </td></tr>
+<tr><td> Rand     </td>   <td> 0 ≤ Random Number < 1</td>     <td> R         </td>  <td> No </td></tr>
 
-<tr><td rowspan=3> Controls </td>
-    <td> = </td>  <td> Equals (Evaluate) </td> <td> = &nbsp;<var>or</var> &nbsp;return </td>     <td> Yes </td></tr>
-<tr><td> C </td>  <td> Clear Entry </td>       <td> C &nbsp;<var>or</var> &nbsp; esc </td>       <td> Yes </td></tr>
-<tr><td> C C </td><td> Clear Calculation </td> <td> C C &nbsp;<var>or</var> &nbsp; esc esc </td> <td> Yes </td></tr>
-
+<tr><td rowspan=9> Controls </td>
+    <td> = </td>          <td> Equals (Evaluate) </td>         <td> = &nbsp;<var>or</var> &nbsp;return </td>      <td> Yes </td></tr>
+<tr><td> C </td>          <td> Clear Entry </td>               <td> C &nbsp;<var>or</var> &nbsp; esc </td>        <td> Yes </td></tr>
+<tr><td> C C </td>        <td> Clear Calculation </td>         <td> C C &nbsp;<var>or</var> &nbsp; esc esc </td>  <td> Yes </td></tr>
+<tr><td> Rad ↺ Deg </td>  <td> Radians ↺ Degrees Toggle </td>  <td> D </td>                                       <td> No </td></tr>
+<tr><td> mc </td>         <td> Memory Clear </td>              <td> ⌘ esc </td>                                   <td> No </td></tr>
+<tr><td> m+ </td>         <td> Memory Addition </td>           <td> ⌘ = </td>                                     <td> No </td></tr>
+<tr><td> m- </td>         <td> Memory Subtraction </td>        <td> ⌘ - </td>                                     <td> No </td></tr>
+<tr><td> mc m+ </td>      <td> Memory Store </td>              <td> ⇧ M </td>                                     <td> No </td></tr>
+<tr><td> mr </td>         <td> Memory Recall </td>             <td> M </td>                                       <td> No </td></tr>
+  
 <tr><td rowspan=7> Basic Operations </td>
     <td> <var>x</var> – <var>y</var> </td> <td> Subtraction </td>           <td> - </td>                                <td> Yes </td></tr>
 <tr><td> <var>x</var> ÷ <var>y</var> </td> <td> Division </td>              <td> / </td>                                <td> Yes </td></tr>
@@ -72,16 +78,6 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> sinh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Sine </td>     <td> ⌘ ^ ⌥ N </td>  <td> No </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Tangent </td>  <td> ⌘ ^ ⌥ G </td>  <td> No </td></tr>
 
-<tr><td rowspan=1> Angular Unit </td>
-    <td> Rad ↺ Deg </td>  <td> Radians ↺ Degrees Toggle </td>  <td> ⌘ D </td>  <td> No </td></tr>
-
-<tr><td rowspan=5> Memory </td>
-    <td> mc </td>     <td> Memory Clear </td>          <td> ⌘ esc </td>  <td> No </td></tr>
-<tr><td> m+ </td>     <td> Memory Addition </td>       <td> ⌘ = </td>    <td> No </td></tr>
-<tr><td> m- </td>     <td> Memory Subtraction </td>    <td> ⌘ - </td>    <td> No </td></tr>
-<tr><td> mc m+ </td>  <td> Memory Clear and Add </td>  <td> ⇧ M </td>    <td> No </td></tr>
-<tr><td> mr </td>     <td> Memory Recall </td>         <td> M </td>      <td> No </td></tr>
-  
 <tr><td rowspan=3> Views </td>
     <td> Basic </td>       <td> Basic Operations only </td>              <td> ⌘ ^ B </td>  <td> No </td></tr>
 <tr><td> Scientific </td>  <td> Full-Featured Decimal Calculator </td>   <td> ⌘ ^ S </td>  <td> No </td></tr>
@@ -91,9 +87,12 @@ My key assignments are in the following table, using the following symbols for k
 
 Philosophy of Key Choices
 
-• Leave all of the calculator’s existing key assignments in place if possible.
-** The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and use ⌘⌥E for natural logarithm (since I assign ⌘E to the exponential function). This is more in keeping with the other assignments for operations.
-** The other exception are the assignments for views, which as noted above use command keys I’d rather use for calculations. My general pattern for views or windows within an application is also to use  ⌘ ^, so that shows up here, too, along with more memorable letter choices.
+* Follow existing patterns for key choices:
+  * Constants: <i>π</i> is assigned P, so I use unmodified keys for other values, both existing like <i>e</i> and a couple more I provide.
+  * Controls: Clear is assigned C and Equals is assigned =, so I also use unmodified keys for other controls such as memory recall and degree
+* Leave all of the calculator’s existing key assignments in place if possible.
+  * The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and use ⌘⌥E for natural logarithm (since I assign ⌘E to the exponential function). This is more in keeping with the other assignments for operations.
+  * The other exception are the assignments for views, which as noted above use command keys I’d rather use for calculations. My general pattern for views or windows within an application is also to use the modifiers ⌘ ^, so that shows up here, too, along with more memorable letter choices.
 
 These macros work with MacOS 12 Monterey, and probably with later versions, too; earlier versions may be missing some functions.
 
