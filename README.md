@@ -7,7 +7,7 @@ The MacOS calculator is a good example; I use it regularly, usually for simple c
 
 This set of macros provides a mostly complete set of such operations and also a few extras such as menu selections, especially where they conflict with commands I’d rather use for calculations, e.g. the Scientific view is assigned ^⌘S rather than ⌘2.
 
-My assignments are in the following table, using the following symbols for key modifiers: ⇧ (shift), ⌘ (command), ^ (control), and ⌥ (option).
+My key assignments are in the following table, using the following symbols for key modifiers: ⇧ (shift), ⌘ (command), ^ (control), and ⌥ (option). Note that keys are indentified by capital letter (as they are on the keyboard), but are lower-case unless shifted.
 
 <table>
 <tr><th> Category </th><th> Symbol </th><th> Description </th><th> Key Assignment </th><th> Built-In </th></tr>
@@ -66,16 +66,17 @@ My assignments are in the following table, using the following symbols for key m
 <tr><td> tanh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Tangent   </td><td>    ⌘ ^ ⌥ G     </td><td>   No    </td></tr>
 
 <tr><td rowspan=1> Angular Unit </td><td> Rad ↺ Deg </td><td> Radians ↺ Degrees Toggle </td><td> ⌘ D </td><td>   No    </td></tr>
+
 <tr><td rowspan=4> Memory </td><td> mc </td><td> Memory Clear </td><td> ⌘ esc </td><td>   No    </td></tr>
 <tr><td> m+ </td><td> Memory Addition </td><td> ⌘ = </td><td>   No    </td></tr>
 <tr><td> m- </td><td> Memory Subtraction </td><td> ⌘ - </td><td>   No    </td></tr>
 <tr><td> mr </td><td> Memory Recall </td><td> ⌘ R </td><td>   No    </td></tr>
+  
+<tr><td rowspan=3> Views </td><td> Basic </td><td> Basic Operations only </td><td> ⌘ ^ B </td><td>   No    </td></tr>
+<tr><td> Scientific </td><td> Full-Featured Decimal Calculator </td><td> ⌘ ^ S </td><td>   No    </td></tr>
+<tr><td> Programmer </td><td> Useful Operations for Programming </td><td> ⌘ ^ S </td><td>   No    </td></tr>
+
 </table>
-
-
-* Keys with the ^⌘ modifiers: views (basic, scientific, programmers)
-
-This leaves all of the calculator’s existing key assignments in place except for one — it assigns unshifted E to the natural logarithm function, while I assign that to the constant e, and use ⌘⌥E for natural logarithm (since I assign ⌘E to the exponential function).
 
 These macros work with MacOS 12 Monterey, and probably with other versions, more or less.
 
