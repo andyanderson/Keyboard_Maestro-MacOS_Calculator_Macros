@@ -12,7 +12,7 @@ My key assignments are in the following table, using the following symbols for k
 <table>
 <tr><th> Category </th>         <th> Symbol </th>   <th> Description </th>              <th> Key Assignment </th> <th> Built-In </th></tr>
 
-<tr><td rowspan=7> Numbers </td>
+<tr><td rowspan=6> Numbers </td>
     <td> 0, 1, … 9 </td> <td> Digits </td>                   <td> 0, 1, … 9 </td> <td> Yes </td></tr>
 <tr><td> <i>π</i> </td>  <td> 3.141… Pi </td>                <td> P         </td> <td> Yes </td></tr>
 <tr><td> <i>e</i> </td>  <td> 2.718… Euler’s Number </td>    <td> E         </td> <td> No </td></tr>
