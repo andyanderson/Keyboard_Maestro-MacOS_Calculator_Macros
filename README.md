@@ -75,7 +75,7 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td rowspan=1> Angular Unit </td>
     <td> Rad ↺ Deg </td>  <td> Radians ↺ Degrees Toggle </td>  <td> ⌘ D </td>  <td> No </td></tr>
 
-<tr><td rowspan=4> Memory </td>
+<tr><td rowspan=5> Memory </td>
     <td> mc </td>     <td> Memory Clear </td>          <td> ⌘ esc </td>  <td> No </td></tr>
 <tr><td> m+ </td>     <td> Memory Addition </td>       <td> ⌘ = </td>    <td> No </td></tr>
 <tr><td> m- </td>     <td> Memory Subtraction </td>    <td> ⌘ - </td>    <td> No </td></tr>
