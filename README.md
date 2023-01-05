@@ -79,7 +79,7 @@ My key assignments are in the following table, using the following symbols for k
     <td> mc </td>  <td> Memory Clear </td>        <td> ⌘ esc </td>  <td> No </td></tr>
 <tr><td> m+ </td>  <td> Memory Addition </td>     <td> ⌘ = </td>    <td> No </td></tr>
 <tr><td> m- </td>  <td> Memory Subtraction </td>  <td> ⌘ - </td>    <td> No </td></tr>
-<tr><td> mr </td>  <td> Memory Recall </td>       <td> ⌘ R </td>    <td> No </td></tr>
+<tr><td> mr </td>  <td> Memory Recall </td>       <td> M </td>    <td> No </td></tr>
   
 <tr><td rowspan=3> Views </td>
     <td> Basic </td>       <td> Basic Operations only </td>              <td> ⌘ ^ B </td>  <td> No </td></tr>
