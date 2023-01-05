@@ -52,6 +52,7 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td rowspan=3> ⌘^⌥ (Command-Control-Option) </td><td> cosh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Cosine   </td><td>    ⌘^⌥K     </td><td>   No    </td></tr>
 <tr><td> sinh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Sine   </td><td>    ⌘^⌥N     </td><td>   No    </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Tangent   </td><td>    ⌘^⌥G     </td><td>   No    </td></tr>
+<tr><td rowspan=1> Angular Unit </td><td rowspan=1> ⌘ (Command) </td><td> Rad/Deg </td><td> Radians/Degrees Toggle </td><td> ⌘D </td><td>   No    </td></tr>
 <tr><td rowspan=1> Memory </td><td rowspan=1> ⌘ (Command) </td><td> <var>x</var><sup>2</sup> </td><td> Memory Recall </td><td> ⌘R </td><td>   No    </td></tr>
 </table>
 
