@@ -5,7 +5,9 @@ I prefer to use keyboard commands on MacOS as much as possible. I therefore use 
 
 The MacOS calculator is a good example; I use it regularly, usually for simple calculations, but occasionally for more involved ones, too. For example, squaring a number has a button but no keyboard access, so I assign that to ⇧2, and powers of 2 are assigned to ⌘2.
 
-This set of macros provides a mostly complete set of such operations and also a few extras such as menu selections, especially where they conflict with commands I’d rather use for calculations, e.g. the Scientific view is assigned ^⌘S rather than ⌘2. My assignments are as follows: 
+This set of macros provides a mostly complete set of such operations and also a few extras such as menu selections, especially where they conflict with commands I’d rather use for calculations, e.g. the Scientific view is assigned ^⌘S rather than ⌘2.
+
+My assignments are in the following table, using the following symbols for key modifiers: ⇧ (shift), ⌘ (command), ^ (control), and ⌥ (option).
 
 <table>
 <tr><th> Category </th><th> Symbol </th><th> Description </th><th> Key Assignment </th><th> Built-In </th></tr>
@@ -63,7 +65,7 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> sinh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Sine   </td><td>    ⌘ ^ ⌥ N     </td><td>   No    </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Tangent   </td><td>    ⌘ ^ ⌥ G     </td><td>   No    </td></tr>
 
-<tr><td rowspan=1> Angular Unit </td><td> Rad/Deg </td><td> Radians/Degrees Toggle </td><td> ⌘ D </td><td>   No    </td></tr>
+<tr><td rowspan=1> Angular Unit </td><td> Rad ↺ Deg </td><td> Radians ↺ Degrees Toggle </td><td> ⌘ D </td><td>   No    </td></tr>
 <tr><td rowspan=4> Memory </td><td> mc </td><td> Memory Clear </td><td> ⌘ esc </td><td>   No    </td></tr>
 <tr><td> m+ </td><td> Memory Addition </td><td> ⌘ = </td><td>   No    </td></tr>
 <tr><td> m- </td><td> Memory Subtraction </td><td> ⌘ - </td><td>   No    </td></tr>
