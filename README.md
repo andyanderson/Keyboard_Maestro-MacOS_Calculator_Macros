@@ -84,7 +84,7 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td rowspan=3> Views </td>
     <td> Basic </td>       <td> Basic Operations only </td>              <td> ⌘ ^ B </td>  <td> No </td></tr>
 <tr><td> Scientific </td>  <td> Full-Featured Decimal Calculator </td>   <td> ⌘ ^ S </td>  <td> No </td></tr>
-<tr><td> Programmer </td>  <td> Useful Operations for Programming </td>  <td> ⌘ ^ S </td>  <td> No </td></tr>
+<tr><td> Programmer </td>  <td> Useful Operations for Programming </td>  <td> ⌘ ^ P </td>  <td> No </td></tr>
 
 </table>
 
