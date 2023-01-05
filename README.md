@@ -9,12 +9,13 @@ This set of macros provides a mostly complete set of such operations and also a 
 
 <table>
 <tr><th> Category </th><th>  Modifier  </th><th> Symbol </th><th> Description </th><th> Key Assignment </th><th> Built-In </th></tr>
-<tr><td rowspan=6> Numbers </td><td rowspan=6> No Modifier </td><td> 0-9 </td><td> Digits </td><td> 0-9 </td><td> Yes </td></tr>
+<tr><td rowspan=7> Numbers </td><td rowspan=7> No Modifier </td><td> 0-9 </td><td> Digits </td><td> 0-9 </td><td> Yes </td></tr>
 <tr><td> <i>π</i> </td><td> 3.141… Pi                  </td><td>       P        </td><td>   Yes    </td></tr>
 <tr><td> <i>e</i> </td><td> 2.718… Euler’s Number      </td><td>       E        </td><td>   No     </td></tr>
 <tr><td> <i>γ</i> </td><td> 0.577… Euler’s Constant    </td><td>       G        </td><td>   No     </td></tr>
 <tr><td> <i>φ</i> </td><td> 1.618… Golden Ratio        </td><td>       F        </td><td>   No     </td></tr>
 <tr><td> <i>C</i> </td><td> 0.915… Catalan’s Constant  </td><td>       C        </td><td>   No     </td></tr>
+<tr><td> Rand </td><td> 0 ≤ Random Number < 1  </td><td>       R        </td><td>   No     </td></tr>
 <tr><td rowspan=11> Basic Operations </td><td rowspan=3> No Modifier </td><td>   = </td><td> Equals (Evaluate)   </td><td>    =     </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> – <var>y</var>              </td><td> Subtraction            </td><td>     -     </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> ÷ <var>y</var>              </td><td> Division               </td><td>     /     </td><td>   Yes    </td></tr>
