@@ -53,13 +53,15 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> sinh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Sine   </td><td>    ⌘^⌥N     </td><td>   No    </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Tangent   </td><td>    ⌘^⌥G     </td><td>   No    </td></tr>
 <tr><td rowspan=1> Angular Unit </td><td rowspan=1> ⌘ (Command) </td><td> Rad/Deg </td><td> Radians/Degrees Toggle </td><td> ⌘D </td><td>   No    </td></tr>
-<tr><td rowspan=1> Memory </td><td rowspan=1> ⌘ (Command) </td><td> <var>x</var><sup>2</sup> </td><td> Memory Recall </td><td> ⌘R </td><td>   No    </td></tr>
+<tr><td rowspan=4> Memory </td><td rowspan=1> ⌘ (Command) </td><td> mc </td><td> Memory Clear </td><td> ⌘esc </td><td>   No    </td></tr>
+<tr><td> m+ </td><td> Memory Addition </td><td> ⌘= </td><td>   No    </td></tr>
+<tr><td> m- </td><td> Memory Subtraction </td><td> ⌘- </td><td>   No    </td></tr>
+<tr><td> mr </td><td> Memory Recall </td><td> ⌘R </td><td>   No    </td></tr>
 </table>
 
 
 ** Memory management:
-* Keys with the ^⌘ modifiers: additional operations (hyperbolic); views (basic, scientific, programmers)
-* Keys with the ⌥ modifier: inverse of the previous operations, including specific roots and logarithms.
+* Keys with the ^⌘ modifiers: views (basic, scientific, programmers)
 ** ± (the latter is ⌥- in the calculator rather than the default MacOS ⌥=±)
 
 This leaves all of the calculator’s existing key assignments in place except for one — it assigns unshifted E to the natural logarithm function, while I assign that to the constant e, and use ⌘⌥E for natural logarithm (since I assign ⌘E to the exponential function).
