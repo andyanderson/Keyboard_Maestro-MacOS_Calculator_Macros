@@ -18,17 +18,17 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> <i>C</i> </td><td> 0.915… Catalan’s Constant  </td><td>       C        </td><td>   No     </td></tr>
 <tr><td> Rand </td><td> 0 ≤ Random Number < 1  </td><td>       R        </td><td>   No     </td></tr>
 
-<tr><td rowspan=11> Basic Operations </td><td>   = </td><td> Equals (Evaluate)   </td><td>    =     </td><td>   Yes    </td></tr>
+<tr><td rowspan=11> Basic Operations </td><td>   = </td><td> Equals (Evaluate)   </td><td>    = <var>or</var> return     </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> – <var>y</var>              </td><td> Subtraction            </td><td>     -     </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> ÷ <var>y</var>              </td><td> Division               </td><td>     /     </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> + <var>y</var> </td><td> Addition </td><td> + (⇧=) </td><td> Yes </td></tr>
-<tr><td> <var>x</var> × <var>y</var>              </td><td> Multiplication         </td><td>    * (⇧8) </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var> × <var>y</var>              </td><td> Multiplication         </td><td>    * <var>aka</var> ⇧ 8 </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var><sup><var>y</var></sup>      </td><td> Power (Exponentiation) </td><td>    ^ (⇧6) </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var>!                            </td><td> Factorial              </td><td>    ! (⇧1) </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> × 100                       </td><td> Percentage             </td><td>    % (⇧5) </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation    </td><td>    ⇧E     </td><td>   Yes    </td></tr>
-<tr><td rowspan=2> ±<var>x</var>                  </td><td rowspan=2> Negation     </td><td>    ⇧-     </td><td>   No    </td></tr>
-<tr><td>    ⌥-     </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation    </td><td>    ⇧ E     </td><td>   Yes    </td></tr>
+<tr><td rowspan=2> ±<var>x</var>                  </td><td rowspan=2> Negation     </td><td>    ⇧ -     </td><td>   No    </td></tr>
+<tr><td>    ⌥ -     </td><td>   Yes    </td></tr>
 
 <tr><td rowspan=6> Algebraic Functions </td><td> 1/<var>x</var> </td><td> Inverse (Reciprocal) </td><td> ⇧/ </td><td> No </td></tr>
 <tr><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⇧2     </td><td>   No    </td></tr>
