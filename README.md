@@ -31,8 +31,8 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> <var>x</var> + <var>y</var> </td> <td> Addition </td>              <td> + &nbsp;<var>aka</var>&nbsp; ⇧ = </td> <td> Yes </td></tr>
 <tr><td> <var>x</var> × <var>y</var> </td> <td> Multiplication </td>        <td> * &nbsp;<var>aka</var>&nbsp; ⇧ 8 </td> <td> Yes </td></tr>
 <tr><td> <var>x</var> ÷ 100 </td>          <td> Percentage to Decimal </td> <td> % &nbsp;<var>aka</var>&nbsp; ⇧ 5 </td> <td> Yes </td></tr>
-<tr><td rowspan=2> ±<var>x</var> </td>     <td rowspan=2> Negation </td>    <td> ⇧ - </td>                              <td> No </td></tr>
-<tr>                                                                        <td> ⌥ - </td>                              <td> Yes </td></tr>
+<tr><td rowspan=2> ±<var>x</var> </td>     <td rowspan=2> Negation </td>    <td> ⌥ - </td>                              <td> Yes </td></tr>
+<tr>                                                                        <td> ⇧ - </td>                              <td> No </td></tr>
 
 <tr><td rowspan=9> Algebraic Functions </td>
     <td> 1/<var>x</var> </td>                          <td> Inverse (Reciprocal) </td>  <td> ⇧ / </td>                             <td> No </td></tr>
