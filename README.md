@@ -18,14 +18,17 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> <i>C</i> </td><td> 0.915… Catalan’s Constant  </td><td>       C        </td><td>   No     </td></tr>
 <tr><td> Rand </td><td> 0 ≤ Random Number < 1  </td><td>       R        </td><td>   No     </td></tr>
 
-<tr><td rowspan=11> Basic Operations </td><td>   = </td><td> Equals (Evaluate)   </td><td>    = <var>or</var> return     </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var> – <var>y</var>              </td><td> Subtraction            </td><td>     -     </td><td>   Yes    </td></tr>
+<tr><td rowspan=3> Controls </td><td>   = </td><td> Equals (Evaluate)   </td><td>    = &nbsp;<var>or</var> &nbsp;return  </td><td>  Yes   </td></tr>
+<tr><td> C </td><td> Clear Entry   </td><td>    esc     </td><td>   Yes    </td></tr>
+<tr><td> C C </td><td> Clear Calculation   </td><td>    esc esc     </td><td>   Yes    </td></tr>
+
+<tr><td rowspan=10> Basic Operations </td><td> <var>x</var> – <var>y</var> </td><td> Subtractionc</td><td>   -  </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> ÷ <var>y</var>              </td><td> Division               </td><td>     /     </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> + <var>y</var> </td><td> Addition </td><td> + <var>aka</var> ⇧ = </td><td> Yes </td></tr>
-<tr><td> <var>x</var> × <var>y</var>              </td><td> Multiplication         </td><td>    * <var>aka</var> ⇧ 8 </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var><sup><var>y</var></sup>      </td><td> Power (Exponentiation) </td><td>    ^ <var>aka</var> ⇧ 6 </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var>!                            </td><td> Factorial              </td><td>    ! <var>aka</var> ⇧ 1 </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var> × 100                       </td><td> Percentage             </td><td>    % <var>aka</var> ⇧ 5 </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var> × <var>y</var>              </td><td> Multiplication         </td><td>    * &nbsp;<var>aka</var>&nbsp; ⇧ 8 </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var><sup><var>y</var></sup>      </td><td> Power (Exponentiation) </td><td>    ^ &nbsp;<var>aka</var>&nbsp; ⇧ 6 </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var>!                            </td><td> Factorial              </td><td>    ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td><td>   Yes    </td></tr>
+<tr><td> <var>x</var> × 100                       </td><td> Percentage             </td><td>    % &nbsp;<var>aka</var>&nbsp; ⇧ 5 </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation    </td><td>    ⇧ E     </td><td>   Yes    </td></tr>
 <tr><td rowspan=2> ±<var>x</var>                  </td><td rowspan=2> Negation     </td><td>    ⇧ -     </td><td>   No    </td></tr>
 <tr><td>    ⌥ -     </td><td>   Yes    </td></tr>
