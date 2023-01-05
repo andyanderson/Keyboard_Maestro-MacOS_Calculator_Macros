@@ -22,20 +22,20 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> C </td><td> Clear Entry   </td><td>    esc     </td><td>   Yes    </td></tr>
 <tr><td> C C </td><td> Clear Calculation   </td><td>    esc esc     </td><td>   Yes    </td></tr>
 
-<tr><td rowspan=10> Basic Operations </td><td> <var>x</var> – <var>y</var> </td><td> Subtractionc</td><td>   -  </td><td>   Yes    </td></tr>
+<tr><td rowspan=9> Basic Operations </td><td> <var>x</var> – <var>y</var> </td><td> Subtraction </td><td>   -  </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> ÷ <var>y</var>              </td><td> Division               </td><td>     /     </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var> + <var>y</var> </td><td> Addition </td><td> + <var>aka</var> ⇧ = </td><td> Yes </td></tr>
+<tr><td> <var>x</var> + <var>y</var> </td><td> Addition </td><td> + &nbsp;<var>aka</var>&nbsp; ⇧ = </td><td> Yes </td></tr>
 <tr><td> <var>x</var> × <var>y</var>              </td><td> Multiplication         </td><td>    * &nbsp;<var>aka</var>&nbsp; ⇧ 8 </td><td>   Yes    </td></tr>
-<tr><td> <var>x</var><sup><var>y</var></sup>      </td><td> Power (Exponentiation) </td><td>    ^ &nbsp;<var>aka</var>&nbsp; ⇧ 6 </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var>!                            </td><td> Factorial              </td><td>    ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> × 100                       </td><td> Percentage             </td><td>    % &nbsp;<var>aka</var>&nbsp; ⇧ 5 </td><td>   Yes    </td></tr>
 <tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation    </td><td>    ⇧ E     </td><td>   Yes    </td></tr>
 <tr><td rowspan=2> ±<var>x</var>                  </td><td rowspan=2> Negation     </td><td>    ⇧ -     </td><td>   No    </td></tr>
 <tr><td>    ⌥ -     </td><td>   Yes    </td></tr>
 
-<tr><td rowspan=6> Algebraic Functions </td><td> 1/<var>x</var> </td><td> Inverse (Reciprocal) </td><td> ⇧ / </td><td> No </td></tr>
+<tr><td rowspan=7> Algebraic Functions </td><td> 1/<var>x</var> </td><td> Inverse (Reciprocal) </td><td> ⇧ / </td><td> No </td></tr>
 <tr><td>  <var>x</var><sup>2</sup> </td><td> Square   </td><td>    ⇧ 2     </td><td>   No    </td></tr>
 <tr><td> <var>x</var><sup>3</sup>            </td><td> Cube   </td><td>    ⇧ 3     </td><td>   No    </td></tr>
+<tr><td> <var>x</var><sup><var>y</var></sup>      </td><td> Power (Exponentiation) </td><td>    ^ &nbsp;<var>aka</var>&nbsp; ⇧ 6 </td><td>   Yes    </td></tr>
 <tr><td>  √<var>x</var> </td><td> Square Root   </td><td>    ⇧ ⌥ 2     </td><td>   No    </td></tr>
 <tr><td> ∛<var>x</var>            </td><td> Cube Root   </td><td>    ⇧ ⌥ 3     </td><td>   No    </td></tr>
 <tr><td> <sup><var>y</var></sup>√<var>x</var>            </td><td> yth Root   </td><td>    ⇧ ⌥ 6     </td><td>   No    </td></tr>
@@ -72,7 +72,6 @@ This set of macros provides a mostly complete set of such operations and also a 
 
 
 * Keys with the ^⌘ modifiers: views (basic, scientific, programmers)
-** ± (the latter is ⌥- in the calculator rather than the default MacOS ⌥=±)
 
 This leaves all of the calculator’s existing key assignments in place except for one — it assigns unshifted E to the natural logarithm function, while I assign that to the constant e, and use ⌘⌥E for natural logarithm (since I assign ⌘E to the exponential function).
 
