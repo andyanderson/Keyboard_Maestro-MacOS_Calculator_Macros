@@ -78,6 +78,12 @@ My key assignments are in the following table, using the following symbols for k
 
 </table>
 
+Philosophy of Key Choice
+
+• Leave all of the calculator’s existing key assignments in place if possible.
+** The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and use ⌘⌥E for natural logarithm (since I assign ⌘E to the exponential function). This is more in keeping with the other assignments for operations.
+** The other exception are the assignments for views, which as noted above use command keys I’d rather use for calculations. My general pattern for views or windows within an application is to use  ⌘ ^, so that shows up here, too.
+
 These macros work with MacOS 12 Monterey, and probably with other versions, more or less.
 
 It took a while to figure out what all of the button names are, and I can thank several people in [the Keyboard Maestro forums](https://forum.keyboardmaestro.com/t/km-macros-can-t-find-all-calculator-buttons/29859) for their assistance.
