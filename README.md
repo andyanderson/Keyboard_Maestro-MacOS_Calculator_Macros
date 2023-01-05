@@ -53,7 +53,7 @@ This set of macros provides a mostly complete set of such operations and also a 
 <tr><td> sinh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Sine   </td><td>    ⌘^⌥N     </td><td>   No    </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td><td> Inverse Hyperbolic Tangent   </td><td>    ⌘^⌥G     </td><td>   No    </td></tr>
 <tr><td rowspan=1> Angular Unit </td><td rowspan=1> ⌘ (Command) </td><td> Rad/Deg </td><td> Radians/Degrees Toggle </td><td> ⌘D </td><td>   No    </td></tr>
-<tr><td rowspan=4> Memory </td><td rowspan=1> ⌘ (Command) </td><td> mc </td><td> Memory Clear </td><td> ⌘esc </td><td>   No    </td></tr>
+<tr><td rowspan=4> Memory </td><td rowspan=4> ⌘ (Command) </td><td> mc </td><td> Memory Clear </td><td> ⌘esc </td><td>   No    </td></tr>
 <tr><td> m+ </td><td> Memory Addition </td><td> ⌘= </td><td>   No    </td></tr>
 <tr><td> m- </td><td> Memory Subtraction </td><td> ⌘- </td><td>   No    </td></tr>
 <tr><td> mr </td><td> Memory Recall </td><td> ⌘R </td><td>   No    </td></tr>
