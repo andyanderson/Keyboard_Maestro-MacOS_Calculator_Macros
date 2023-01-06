@@ -10,7 +10,7 @@ This set of macros provides a mostly complete set of such operations and also a 
 My key assignments are in the following table, using the following symbols for key modifiers: ⇧ (shift), ⌘ (command), ^ (control), and ⌥ (option). Note that keys are indentified by capital letter (as they are on the keyboard), but are lower-case unless shifted.
 
 <table>
-<tr><th> Category </th>         <th> Symbol </th>   <th> Description </th>              <th> Key Assignment </th> <th> Built-In </th></tr>
+<tr><th> Category </th>         <th> Symbol </th>   <th> Description </th>              <th> Key Assignment </th> <th> Built-In Key </th></tr>
 
 <tr><td rowspan=6> Numbers </td>
     <td> 0, 1, … 9 </td>  <td> Digits </td>                   <td> 0, 1, … 9 </td>  <td> Yes </td></tr>
@@ -25,10 +25,10 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> C </td>          <td> Clear Entry </td>               <td> C &nbsp;<var>or</var> &nbsp; esc </td>        <td> Yes </td></tr>
 <tr><td> C C </td>        <td> Clear Calculation </td>         <td> C C &nbsp;<var>or</var> &nbsp; esc esc </td>  <td> Yes </td></tr>
 <tr><td> Rad ↺ Deg </td>  <td> Radians ↺ Degrees Toggle </td>  <td> D </td>                                       <td> No </td></tr>
-<tr><td> mc </td>         <td> Memory Clear </td>              <td> ⌘ esc </td>                                   <td> No </td></tr>
-<tr><td> m+ </td>         <td> Memory Addition </td>           <td> ⌘ = </td>                                     <td> No </td></tr>
-<tr><td> m- </td>         <td> Memory Subtraction </td>        <td> ⌘ - </td>                                     <td> No </td></tr>
-<tr><td> mc m+ </td>      <td> Memory Store </td>              <td> ⇧ M </td>                                     <td> No </td></tr>
+<tr><td> mc </td>         <td> Memory Clear </td>              <td> X </td>                                       <td> No </td></tr>
+<tr><td> m+ </td>         <td> Memory Addition </td>           <td> A </td>                                       <td> No </td></tr>
+<tr><td> m- </td>         <td> Memory Subtraction </td>        <td> S </td>                                       <td> No </td></tr>
+<tr><td> mc m+ </td>      <td> Memory New </td>                <td> N </td>                                       <td> No </td></tr>
 <tr><td> mr </td>         <td> Memory Recall </td>             <td> M </td>                                       <td> No </td></tr>
   
 <tr><td rowspan=7> Basic Operations </td>
@@ -88,8 +88,8 @@ My key assignments are in the following table, using the following symbols for k
 Philosophy of Key Choices
 
 * Follow existing patterns for key choices:
-  * Numbers: Digits are single keys, as is <i>π</i> which is assigned to P, so I also use unmodified keys for other values, both existing like <i>e</i> and a couple more I provide.
-  * Controls: Clear is assigned C and Equals is assigned =, so I also use unmodified keys for other controls such as memory recall and degree
+  * Numbers: Digits are single keys, as is <i>π</i> which is assigned to P, so I also use unmodified keys for other values, both for <i>e</i> and Rand with existing buttons,and a couple more I provide.
+  * Controls: Clear is assigned C and Equals is assigned =, so I also use unmodified keys for other controls such as the memory controls and the radians / degree toggle.
 * Leave all of the calculator’s existing key assignments in place if possible.
   * The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and use ⌘⌥E for natural logarithm (since I assign ⌘E to the exponential function). This is more in keeping with the other assignments for operations.
   * The other exception are the assignments for views, which as noted above use command keys I’d rather use for calculations. My general pattern for views or windows within an application is also to use the modifiers ⌘ ^, so that shows up here, too, along with more memorable letter choices.
