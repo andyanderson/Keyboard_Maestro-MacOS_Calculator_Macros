@@ -88,7 +88,7 @@ My key assignments are in the following table, using the following symbols for k
 Philosophy of Key Choices
 
 * Follow existing patterns for key choices:
-  * Constants: <i>π</i> is assigned P, so I use unmodified keys for other values, both existing like <i>e</i> and a couple more I provide.
+  * Numbers: Digits are single keys, as is <i>π</i> which is assigned to P, so I also use unmodified keys for other values, both existing like <i>e</i> and a couple more I provide.
   * Controls: Clear is assigned C and Equals is assigned =, so I also use unmodified keys for other controls such as memory recall and degree
 * Leave all of the calculator’s existing key assignments in place if possible.
   * The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and use ⌘⌥E for natural logarithm (since I assign ⌘E to the exponential function). This is more in keeping with the other assignments for operations.
