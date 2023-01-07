@@ -51,12 +51,10 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> ∛<var>x</var> </td>                           <td> Cube Root </td>             <td> ⇧ ⌥ 3 </td>                           <td> No </td></tr>
 <tr><td> <sup><var>y</var></sup>√<var>x</var> </td>    <td> yth Root </td>              <td> ⇧ ⌥ 6 </td>                           <td> No </td></tr>
 
-<tr><td rowspan=3> Exponential Functions </td>
+<tr><td rowspan=7> Exponential & Logarithmic Functions </td>
     <td> 10<sup><var>x</var></sup> </td>       <td> Power of 10 </td>          <td> ⌘ 1 </td> <td> No </td></tr>
 <tr><td> 2<sup><var>x</var></sup> </td>        <td> Power of 2 </td>           <td> ⌘ 2 </td> <td> No </td></tr>
 <tr><td> <i>e</i><sup><var>x</var></sup> </td> <td> Exponential Function </td> <td> ⌘ E </td> <td> No </td></tr>
-
-<tr><td rowspan=4> Logarithmic Functions </td>
     <td> log₁₀ <var>x</var> </td>                  <td> Logarithm Base 10 </td> <td> ⌘ ⌥ 1 </td><td> No </td></tr>
 <tr><td> log₂ <var>x</var> </td>                   <td> Logarithm Base 2 </td>  <td> ⌘ ⌥ 2 </td><td> No </td></tr>
 <tr><td> log<sub><i>y</i></sub> <var>x</var> </td> <td> Logarithm Base y </td>  <td> ⌘ ⌥ 6 </td><td> No </td></tr>
@@ -95,6 +93,7 @@ Philosophy of Key Choices
   * Controls: Clear is assigned C and Equals is assigned =, so I also use unmodified keys for other controls such as the memory controls and the radians / degree toggle.
   * Basic Operations and Algebraic Functions: Many of these have buttons that also work with shifted keys, e.g. +, ^, and scientific notation, so I continue that pattern for buttons without assigned keys like inverse (⇧ /) and square (⇧ 2). I also add other common functions in this family, notably negation (⇧ -), which already exists as ⌥ -, but the latter doesn’t follow the pattern and so is harder to remember (I do leave it in place, though).
   * Inverse Operations: I use the option key in general as an “inverse” key, so, for example square root is ⇧ ⌥ 2.
+  * Exponential & Logarithmic Functions: With both x² and 2<sup>x</sup> referencing 2, these more complicated functions now require a different modifier, ⌘ .
   * Trignometric Functions: I don’t use ⌘ S, ⌘ C, and ⌘ T for sine, cosine, and tangent, because these collide with the standard Mac commands for Save and Copy, and the Calculator’s assignment for “Show Paper Tape”. My common practice in such cases is to use other “reminiscent” letters: ⌘ N, ⌘ K, ⌘ G.
   * Hyperbolic Trignometric Functions: For these less common functions, to be consistent with the circular trignometric functions I use the same letters but instead use ⌘ ^ rather than just ⌘ .
 
