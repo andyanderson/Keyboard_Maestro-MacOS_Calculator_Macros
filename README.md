@@ -20,17 +20,6 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> <i>φ</i> </td>   <td> 1.618… Golden Ratio</td>       <td> F         </td>  <td> No </td></tr>
 <tr><td> Rand     </td>   <td> 0 ≤ Random Number < 1</td>     <td> R         </td>  <td> No </td></tr>
 
-<tr><td rowspan=9> Controls </td>
-    <td> = </td>          <td> Equals (Evaluate) </td>         <td> = &nbsp;<var>or</var> &nbsp;return </td>      <td> Yes </td></tr>
-<tr><td> C </td>          <td> Clear Entry </td>               <td> C &nbsp;<var>or</var> &nbsp; esc </td>        <td> Yes </td></tr>
-<tr><td> C C </td>        <td> Clear Calculation </td>         <td> C C &nbsp;<var>or</var> &nbsp; esc esc </td>  <td> Yes </td></tr>
-<tr><td> Rad ↺ Deg </td>  <td> Radians ↺ Degrees Toggle </td>  <td> D </td>                                       <td> No </td></tr>
-<tr><td> mc </td>         <td> Memory Clear </td>              <td> X </td>                                       <td> No </td></tr>
-<tr><td> m+ </td>         <td> Memory Addition </td>           <td> A </td>                                       <td> No </td></tr>
-<tr><td> m- </td>         <td> Memory Subtraction </td>        <td> S </td>                                       <td> No </td></tr>
-<tr><td> mc m+ </td>      <td> Memory New </td>                <td> N </td>                                       <td> No </td></tr>
-<tr><td> mr </td>         <td> Memory Recall </td>             <td> M </td>                                       <td> No </td></tr>
-  
 <tr><td rowspan=7> Basic Operations </td>
     <td> <var>x</var> – <var>y</var> </td> <td> Subtraction </td>           <td> - </td>                                <td> Yes </td></tr>
 <tr><td> <var>x</var> ÷ <var>y</var> </td> <td> Division </td>              <td> / </td>                                <td> Yes </td></tr>
@@ -76,6 +65,17 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> cosh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Cosine </td>   <td> ⌘ ^ ⌥ K </td>  <td> No </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Tangent </td>  <td> ⌘ ^ ⌥ G </td>  <td> No </td></tr>
 
+<tr><td rowspan=9> Controls </td>
+    <td> = </td>          <td> Equals (Evaluate) </td>         <td> = &nbsp;<var>or</var> &nbsp;return </td>      <td> Yes </td></tr>
+<tr><td> C </td>          <td> Clear Entry </td>               <td> C &nbsp;<var>or</var> &nbsp; esc </td>        <td> Yes </td></tr>
+<tr><td> C C </td>        <td> Clear Calculation </td>         <td> C C &nbsp;<var>or</var> &nbsp; esc esc </td>  <td> Yes </td></tr>
+<tr><td> Rad ↺ Deg </td>  <td> Radians ↺ Degrees Toggle </td>  <td> D </td>                                       <td> No </td></tr>
+<tr><td> mc </td>         <td> Memory Clear </td>              <td> X </td>                                       <td> No </td></tr>
+<tr><td> m+ </td>         <td> Memory Addition </td>           <td> A </td>                                       <td> No </td></tr>
+<tr><td> m- </td>         <td> Memory Subtraction </td>        <td> S </td>                                       <td> No </td></tr>
+<tr><td> mc m+ </td>      <td> Memory New </td>                <td> N </td>                                       <td> No </td></tr>
+<tr><td> mr </td>         <td> Memory Recall </td>             <td> M </td>                                       <td> No </td></tr>
+  
 <tr><td rowspan=3> Views </td>
     <td> Basic </td>       <td> Basic Operations only </td>              <td> ⌘ ^ B </td>  <td> No </td></tr>
 <tr><td> Scientific </td>  <td> Full-Featured Decimal Calculator </td>   <td> ⌘ ^ S </td>  <td> No </td></tr>
@@ -86,14 +86,14 @@ My key assignments are in the following table, using the following symbols for k
 Philosophy of Key Choices
 
 * Leave all of the calculator’s existing key assignments in place if possible and avoid system-wide key assignments.
-  * The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and use ⌘⌥E for natural logarithm (since I assign ⌘E to the exponential function). This is more in keeping with the other assignments for operations.
+  * The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and use ⌘ ⌥ E for natural logarithm (since I assign ⌘E  to the exponential function). This is more in keeping with the other assignments for operations.
   * The other exception are the assignments for views, which as noted above use command keys I’d rather use for calculations. My general pattern for views or windows within an application is also to use the modifiers ⌘ ^, so that shows up here, too, along with more memorable letter choices.
 * Otherwise follow existing patterns for key choices.
   * Numbers: Digits are both buttons and the obvious keys, but the button <i>π</i> is also assigned to P, so I also use unmodified keys for other values, both for existing buttons without keys like <i>e</i> and Rand, and for a couple more I provide.
   * Controls: Clear is assigned C and Equals is assigned =, so I also use unmodified keys for other controls such as the memory controls and the radians / degree toggle.
-  * Basic Operations and Algebraic Functions: Many of these have buttons that also work with shifted keys, e.g. +, ^, and scientific notation, so I continue that pattern for buttons without assigned keys like inverse (⇧ /) and square (⇧ 2 — perfect symbol for raising to the 2 power). I also add other common functions in this family, notably negation (⇧ -), which already exists as ⌥ -, but the latter doesn’t follow the pattern and so is harder to remember (I do leave it in place, though).
+  * Basic Operations and Algebraic Functions: Many of these have buttons that also work with shifted keys, e.g. +, ^, and scientific notation, so I continue that pattern for buttons without assigned keys like inverse (⇧ /) and square (⇧ 2 — perfect symbol for “raising to the power of 2“). I also add other common functions in this family, notably negation (⇧ -), which already exists as ⌥ -, but the latter doesn’t follow the pattern and so is harder to remember (I do leave it in place, though).
   * Inverse Operations: I use the option key in general as an “inverse” key, so, for example square root is ⇧ ⌥ 2.
-  * Exponential & Logarithmic Functions: With both x² and 2<sup>x</sup> referencing 2, the latter and other more complicated functions require a different modifier, logically the Command key ⌘ . I would also put y<sup>x</sup> here as ⌘6 if I could, but it doesn’t appear to be named in a consistent way even though it has a button.
+  * Exponential & Logarithmic Functions: With both x² and 2<sup>x</sup> referencing 2, the latter and other more complicated functions require a different modifier, logically the command key ⌘ . I would also put y<sup>x</sup> here as ⌘6 if I could, but it doesn’t appear to be named in a consistent way even though it has a button.
   * Trignometric Functions: I don’t use ⌘ S, ⌘ C, and ⌘ T for sine, cosine, and tangent, because these collide with the standard Mac commands for Save and Copy, and the Calculator’s assignment for “Show Paper Tape”. My common practice in such cases is to use other “reminiscent” letters: ⌘ N, ⌘ K, ⌘ G.
   * Hyperbolic Trignometric Functions: For these less common functions, to be consistent with the circular trignometric functions I use the same letters but instead use ⌘ ^ rather than just ⌘ .
 
