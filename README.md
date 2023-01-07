@@ -63,19 +63,19 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> log<sub><i>e</i></sub> <var>x</var> </td> <td> Natural Logarithm </td> <td> ⌘ ⌥ E </td><td> No </td></tr>
 
 <tr><td rowspan=6> Trignometric Functions </td>
-    <td> cos <var>x</var> </td>    <td> Cosine </td>           <td> ⌘ K </td>    <td> No </td></tr>
-<tr><td> sin <var>x</var> </td>    <td> Sine </td>             <td> ⌘ N </td>    <td> No </td></tr>
+    <td> sin <var>x</var> </td>    <td> Sine </td>             <td> ⌘ N </td>    <td> No </td></tr>
+<tr><td> cos <var>x</var> </td>    <td> Cosine </td>           <td> ⌘ K </td>    <td> No </td></tr>
 <tr><td> tan <var>x</var> </td>    <td> Tangent </td>          <td> ⌘ G </td>    <td> No </td></tr>
-<tr><td> cos⁻¹ <var>x</var> </td>  <td> Inverse Cosine </td>   <td> ⌘ ⌥ K </td>  <td> No </td></tr>
 <tr><td> sin⁻¹ <var>x</var> </td>  <td> Inverse Sine </td>     <td> ⌘ ⌥ N </td>  <td> No </td></tr>
+<tr><td> cos⁻¹ <var>x</var> </td>  <td> Inverse Cosine </td>   <td> ⌘ ⌥ K </td>  <td> No </td></tr>
 <tr><td> tan⁻¹ <var>x</var> </td>  <td> Inverse Tangent </td>  <td> ⌘ ⌥ G </td>  <td> No </td></tr>
 
 <tr><td rowspan=6> Hyperbolic Trignometric Functions </td>
-    <td> cosh <var>x</var> </td>    <td> Hyperbolic Cosine </td>           <td> ⌘ ^ K </td>    <td> No </td></tr>
-<tr><td> sinh <var>x</var> </td>    <td> Hyperbolic Sine </td>             <td> ⌘ ^ N </td>    <td> No </td></tr>
+    <td> sinh <var>x</var> </td>    <td> Hyperbolic Sine </td>             <td> ⌘ ^ N </td>    <td> No </td></tr>
+<tr><td> cosh <var>x</var> </td>    <td> Hyperbolic Cosine </td>           <td> ⌘ ^ K </td>    <td> No </td></tr>
 <tr><td> tanh <var>x</var> </td>    <td> Hyperbolic Tangent </td>          <td> ⌘ ^ G </td>    <td> No </td></tr>
-<tr><td> cosh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Cosine </td>   <td> ⌘ ^ ⌥ K </td>  <td> No </td></tr>
 <tr><td> sinh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Sine </td>     <td> ⌘ ^ ⌥ N </td>  <td> No </td></tr>
+<tr><td> cosh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Cosine </td>   <td> ⌘ ^ ⌥ K </td>  <td> No </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Tangent </td>  <td> ⌘ ^ ⌥ G </td>  <td> No </td></tr>
 
 <tr><td rowspan=3> Views </td>
@@ -87,7 +87,7 @@ My key assignments are in the following table, using the following symbols for k
 
 Philosophy of Key Choices
 
-* Leave all of the calculator’s existing key assignments in place if possible.
+* Leave all of the calculator’s existing key assignments in place if possible and avoid system-wide key assignments.
   * The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and use ⌘⌥E for natural logarithm (since I assign ⌘E to the exponential function). This is more in keeping with the other assignments for operations.
   * The other exception are the assignments for views, which as noted above use command keys I’d rather use for calculations. My general pattern for views or windows within an application is also to use the modifiers ⌘ ^, so that shows up here, too, along with more memorable letter choices.
 * Otherwise follow existing patterns for key choices.
@@ -96,7 +96,7 @@ Philosophy of Key Choices
   * Basic Operations and Algebraic Functions: Many of these have buttons that also work with shifted keys, e.g. +, ^, and scientific notation, so I continue that pattern for buttons without assigned keys like inverse (⇧ /) and square (⇧ 2). I also add other common functions in this family, notably negation (⇧ -), which already exists as ⌥ -, but the latter doesn’t follow the pattern and so is harder to remember (I do leave it in place, though).
   * Inverse Operations: I use the option key in general as an “inverse” key, so, for example square root is ⇧ ⌥ 2.
   * Trignometric Functions: I don’t use ⌘ S, ⌘ C, and ⌘ T for sine, cosine, and tangent, because these collide with the standard Mac commands for Save and Copy, and the Calculator’s assignment for “Show Paper Tape”. My common practice in such cases is to use other “reminiscent” letters: ⌘ N, ⌘ K, ⌘ G.
-  * Hyperbolic Trignometric Functions: I assigned these less common functions to the adjacent letters on the QWERTY keyboard: ⌘ M, ⌘ L, ⌘ H.
+  * Hyperbolic Trignometric Functions: For these less common functions, to be consistent with the circular trignometric functions I use the same letters but instead use ⌘ ^ rather than just ⌘ .
 
 These macros work with MacOS 12 Monterey, and probably with later versions, too; earlier versions may be missing some functions.
 
