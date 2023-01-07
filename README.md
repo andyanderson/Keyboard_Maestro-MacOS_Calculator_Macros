@@ -90,10 +90,13 @@ Philosophy of Key Choices
 * Leave all of the calculator’s existing key assignments in place if possible.
   * The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and use ⌘⌥E for natural logarithm (since I assign ⌘E to the exponential function). This is more in keeping with the other assignments for operations.
   * The other exception are the assignments for views, which as noted above use command keys I’d rather use for calculations. My general pattern for views or windows within an application is also to use the modifiers ⌘ ^, so that shows up here, too, along with more memorable letter choices.
-* Otherwise follow existing patterns for key choices:
+* Otherwise follow existing patterns for key choices.
   * Numbers: Digits are both buttons and the obvious keys, but the button <i>π</i> is also assigned to P, so I also use unmodified keys for other values, both for existing buttons without keys like <i>e</i> and Rand, and for a couple more I provide.
   * Controls: Clear is assigned C and Equals is assigned =, so I also use unmodified keys for other controls such as the memory controls and the radians / degree toggle.
-  * Basic Operations and Algebraic Functions: Many of these have buttons that also work with shifted keys, e.g. +, ^, and scientific notation, so I continue that pattern for buttons without assigned keys like inverse (⇧ /) and square (⇧ 2). I also add other common functions in this family, notably negation (⇧ -), which already exists as ⌥ -, but the latter doesn’t follow the pattern and so is harder to remember. I also made another choice here, to use the option key in general as an “inverse” key, so, e.g. square root is ⇧ ⌥ 2.
+  * Basic Operations and Algebraic Functions: Many of these have buttons that also work with shifted keys, e.g. +, ^, and scientific notation, so I continue that pattern for buttons without assigned keys like inverse (⇧ /) and square (⇧ 2). I also add other common functions in this family, notably negation (⇧ -), which already exists as ⌥ -, but the latter doesn’t follow the pattern and so is harder to remember (I do leave it in place, though).
+  * Inverse Operations: I use the option key in general as an “inverse” key, so, for example square root is ⇧ ⌥ 2.
+  * Trignometric Functions: I don’t use ⌘ S, ⌘ C, and ⌘ T for sine, cosine, and tangent, because these collide with the standard Mac commands for Save and Copy, and the Calculator’s assignment for “Show Paper Tape”. My common practice in such cases is to use other “reminiscent” letters: ⌘ N, ⌘ K, ⌘ G.
+  * Hyperbolic Trignometric Functions: I assigned these less common functions to the adjacent letters on the QWERTY keyboard: ⌘ M, ⌘ L, ⌘ H.
 
 These macros work with MacOS 12 Monterey, and probably with later versions, too; earlier versions may be missing some functions.
 
