@@ -3,9 +3,9 @@
 
 I prefer to use keyboard commands on MacOS as much as possible. I therefore use the Mac utility [Keyboard Maestro](https://www.keyboardmaestro.com/main/) to add my own key assignments to make up for those lacking within applications for my common tasks, increasing my productivity.
 
-The MacOS calculator is a good example; I use it regularly, usually for simple calculations, but occasionally for more involved ones, too. For example, squaring a number has a button but no keyboard access, so I assign that to ⇧2, and powers of 2 are assigned to ⌘2.
+The MacOS calculator is a good example; I use it regularly, usually for simple calculations, but occasionally for more involved ones, too. For example, squaring a number has a button but no keyboard access, so I assign x² to ⇧ 2. Similarly, I assign 2<sup>x</sup> to ⌘ 2.
 
-This set of macros provides a mostly complete set of such operations and also a few extras such as menu selections, especially where they conflict with commands I’d rather use for calculations, e.g. the Scientific view is assigned ^⌘S rather than ⌘2.
+This set of macros provides a mostly complete set of such operations and also a few extras such as menu selections, especially where they conflict with commands I’d rather use for calculations, e.g. the Scientific view is assigned ⌘ ^ S rather than ⌘ 2.
 
 My key assignments are in the following table, using the following symbols for key modifiers: ⇧ (shift), ⌘ (command), ^ (control), and ⌥ (option). Note that keys are indentified by capital letter (as they are on the keyboard), but are lower-case unless shifted.
 
@@ -41,29 +41,29 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> <sup><var>y</var></sup>√<var>x</var> </td>    <td> yth Root </td>              <td> ⇧ ⌥ 6 </td>                           <td> No </td></tr>
 
 <tr><td rowspan=7> Exponential & Logarithmic Functions </td>
-    <td> 10<sup><var>x</var></sup> </td>       <td> Power of 10 </td>          <td> ⌘ 1 </td> <td> No </td></tr>
-<tr><td> 2<sup><var>x</var></sup> </td>        <td> Power of 2 </td>           <td> ⌘ 2 </td> <td> No </td></tr>
-<tr><td> <i>e</i><sup><var>x</var></sup> </td> <td> Exponential Function </td> <td> ⌘ E </td> <td> No </td></tr>
-    <td> log₁₀ <var>x</var> </td>                  <td> Logarithm Base 10 </td> <td> ⌘ ⌥ 1 </td><td> No </td></tr>
-<tr><td> log₂ <var>x</var> </td>                   <td> Logarithm Base 2 </td>  <td> ⌘ ⌥ 2 </td><td> No </td></tr>
-<tr><td> log<sub><i>y</i></sub> <var>x</var> </td> <td> Logarithm Base y </td>  <td> ⌘ ⌥ 6 </td><td> No </td></tr>
-<tr><td> log<sub><i>e</i></sub> <var>x</var> </td> <td> Natural Logarithm </td> <td> ⌘ ⌥ E </td><td> No </td></tr>
+    <td> 10<sup><var>x</var></sup> </td>       <td> Power of 10 </td>          <td> ^ 1 </td> <td> No </td></tr>
+<tr><td> 2<sup><var>x</var></sup> </td>        <td> Power of 2 </td>           <td> ^ 2 </td> <td> No </td></tr>
+<tr><td> <i>e</i><sup><var>x</var></sup> </td> <td> Exponential Function </td> <td> ^ E </td> <td> No </td></tr>
+    <td> log₁₀ <var>x</var> </td>                  <td> Logarithm Base 10 </td> <td> ^ ⌥ 1 </td><td> No </td></tr>
+<tr><td> log₂ <var>x</var> </td>                   <td> Logarithm Base 2 </td>  <td> ^ ⌥ 2 </td><td> No </td></tr>
+<tr><td> log<sub><i>y</i></sub> <var>x</var> </td> <td> Logarithm Base y </td>  <td> ^ ⌥ 6 </td><td> No </td></tr>
+<tr><td> log<sub><i>e</i></sub> <var>x</var> </td> <td> Natural Logarithm </td> <td> ^ ⌥ E </td><td> No </td></tr>
 
 <tr><td rowspan=6> Trignometric Functions </td>
-    <td> sin <var>x</var> </td>    <td> Sine </td>             <td> ⌘ N </td>    <td> No </td></tr>
-<tr><td> cos <var>x</var> </td>    <td> Cosine </td>           <td> ⌘ K </td>    <td> No </td></tr>
-<tr><td> tan <var>x</var> </td>    <td> Tangent </td>          <td> ⌘ G </td>    <td> No </td></tr>
-<tr><td> sin⁻¹ <var>x</var> </td>  <td> Inverse Sine </td>     <td> ⌘ ⌥ N </td>  <td> No </td></tr>
-<tr><td> cos⁻¹ <var>x</var> </td>  <td> Inverse Cosine </td>   <td> ⌘ ⌥ K </td>  <td> No </td></tr>
-<tr><td> tan⁻¹ <var>x</var> </td>  <td> Inverse Tangent </td>  <td> ⌘ ⌥ G </td>  <td> No </td></tr>
+    <td> sin <var>x</var> </td>    <td> Sine </td>             <td> ⇧ S </td>    <td> No </td></tr>
+<tr><td> cos <var>x</var> </td>    <td> Cosine </td>           <td> ⇧ C </td>    <td> No </td></tr>
+<tr><td> tan <var>x</var> </td>    <td> Tangent </td>          <td> ⇧ T </td>    <td> No </td></tr>
+<tr><td> sin⁻¹ <var>x</var> </td>  <td> Inverse Sine </td>     <td> ⇧ ⌥ S </td>  <td> No </td></tr>
+<tr><td> cos⁻¹ <var>x</var> </td>  <td> Inverse Cosine </td>   <td> ⇧ ⌥ C </td>  <td> No </td></tr>
+<tr><td> tan⁻¹ <var>x</var> </td>  <td> Inverse Tangent </td>  <td> ⇧ ⌥ T </td>  <td> No </td></tr>
 
 <tr><td rowspan=6> Hyperbolic Trignometric Functions </td>
-    <td> sinh <var>x</var> </td>    <td> Hyperbolic Sine </td>             <td> ⌘ ^ N </td>    <td> No </td></tr>
-<tr><td> cosh <var>x</var> </td>    <td> Hyperbolic Cosine </td>           <td> ⌘ ^ K </td>    <td> No </td></tr>
-<tr><td> tanh <var>x</var> </td>    <td> Hyperbolic Tangent </td>          <td> ⌘ ^ G </td>    <td> No </td></tr>
-<tr><td> sinh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Sine </td>     <td> ⌘ ^ ⌥ N </td>  <td> No </td></tr>
-<tr><td> cosh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Cosine </td>   <td> ⌘ ^ ⌥ K </td>  <td> No </td></tr>
-<tr><td> tanh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Tangent </td>  <td> ⌘ ^ ⌥ G </td>  <td> No </td></tr>
+    <td> sinh <var>x</var> </td>    <td> Hyperbolic Sine </td>             <td> ^ S </td>    <td> No </td></tr>
+<tr><td> cosh <var>x</var> </td>    <td> Hyperbolic Cosine </td>           <td> ^ C </td>    <td> No </td></tr>
+<tr><td> tanh <var>x</var> </td>    <td> Hyperbolic Tangent </td>          <td> ^ T </td>    <td> No </td></tr>
+<tr><td> sinh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Sine </td>     <td> ^ ⌥ S </td>  <td> No </td></tr>
+<tr><td> cosh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Cosine </td>   <td> ^ ⌥ C </td>  <td> No </td></tr>
+<tr><td> tanh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Tangent </td>  <td> ^ ⌥ T </td>  <td> No </td></tr>
 
 <tr><td rowspan=9> Controls </td>
     <td> = </td>          <td> Equals (Evaluate) </td>         <td> = &nbsp;<var>or</var> &nbsp;return </td>      <td> Yes </td></tr>
@@ -85,17 +85,17 @@ My key assignments are in the following table, using the following symbols for k
 
 Philosophy of Key Choices
 
-* Leave all of the calculator’s existing key assignments in place if possible and avoid system-wide key assignments.
-  * The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and use ⌘ ⌥ E for natural logarithm (since I assign ⌘E  to the exponential function). This is more in keeping with the other assignments for operations.
-  * The other exception are the assignments for views, which as noted above use command keys I’d rather use for calculations. My general pattern for views or windows within an application is also to use the modifiers ⌘ ^, so that shows up here, too, along with more memorable letter choices.
+* Avoid system-wide key assignments, and leave all of the calculator’s existing key assignments in place if possible.
+  * The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and instead use ^ ⌥ E for natural logarithm (since I assign ^ E to the exponential function). This is more in keeping with the other assignments for operations.
+  * The other exception is the assignments for views, which as noted above use command keys I’d rather use for calculations. My general pattern for views or windows within an application is also to use the modifiers ⌘ ^, so that shows up here, too, along with more memorable letter choices.
 * Otherwise follow existing patterns for key choices.
   * Numbers: Digits are both buttons and the obvious keys, but the button <i>π</i> is also assigned to P, so I also use unmodified keys for other values, both for existing buttons without keys like <i>e</i> and Rand, and for a couple more I provide.
   * Controls: Clear is assigned C and Equals is assigned =, so I also use unmodified keys for other controls such as the memory controls and the radians / degree toggle.
   * Basic Operations and Algebraic Functions: Many of these have buttons that also work with shifted keys, e.g. +, ^, and scientific notation, so I continue that pattern for buttons without assigned keys like inverse (⇧ /) and square (⇧ 2 — perfect symbol for “raising to the power of 2“). I also add other common functions in this family, notably negation (⇧ -), which already exists as ⌥ -, but the latter doesn’t follow the pattern and so is harder to remember (I do leave it in place, though).
   * Inverse Operations: I use the option key in general as an “inverse” key, so, for example square root is ⇧ ⌥ 2.
-  * Exponential & Logarithmic Functions: With both x² and 2<sup>x</sup> referencing 2, the latter and other more complicated functions require a different modifier, logically the command key ⌘ . I would also put y<sup>x</sup> here as ⌘6 if I could, but it doesn’t appear to be named in a consistent way even though it has a button.
-  * Trignometric Functions: I don’t use ⌘ S, ⌘ C, and ⌘ T for sine, cosine, and tangent, because these collide with the standard Mac commands for Save and Copy, and the Calculator’s assignment for “Show Paper Tape”. My common practice in such cases is to use other “reminiscent” letters: ⌘ N, ⌘ K, ⌘ G.
-  * Hyperbolic Trignometric Functions: For these less common functions, to be consistent with the circular trignometric functions I use the same letters but instead use ⌘ ^ rather than just ⌘ .
+  * Exponential & Logarithmic Functions: With both x² and 2<sup>x</sup> referencing 2, the latter and other more complicated functions require a different modifier, the control key ^ . I would also put y<sup>x</sup> here as ^ 6 if I could, but it doesn’t appear to be named in a consistent way even though it has a button.
+  * Trignometric Functions: I use ⇧ S, ⇧ C, and ⇧ T for sine, cosine, and tangent.
+  * Hyperbolic Trignometric Functions: For these less common functions, to be consistent with the circular trignometric functions I use the same letters but instead use ^.
 
 These macros work with MacOS 12 Monterey, and probably with later versions, too; earlier versions may be missing some functions.
 
