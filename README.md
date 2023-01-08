@@ -92,10 +92,13 @@ Philosophy of Key Choices
   * Numbers: Digits are both buttons and the obvious keys, but the button <i>π</i> is also assigned to P, so I also use unmodified keys for other values, both for existing buttons without keys like <i>e</i> and Rand, and for a couple more I provide.
   * Controls: Clear is assigned C and Equals is assigned =, so I also use unmodified keys for other controls such as the memory controls and the radians / degree toggle.
   * Basic Operations and Algebraic Functions: Many of these have buttons that also work with shifted keys, e.g. +, ^, and scientific notation, so I continue that pattern for buttons without assigned keys like inverse (⇧ /) and square (⇧ 2 — perfect symbol for “raising to the power of 2“). I also add other common functions in this family, notably negation (⇧ -), which already exists as ⌥ -, but the latter doesn’t follow the pattern and so is harder to remember (I do leave it in place, though).
-  * Inverse Operations: I use the option key in general as an “inverse” key, so, for example square root is ⇧ ⌥ 2.
-  * Exponential & Logarithmic Functions: With both x² and 2<sup>x</sup> referencing 2, the latter and other more complicated functions require a different modifier, the control key ^ . I would also put y<sup>x</sup> here as ^ 6 if I could, but it doesn’t appear to be named in a consistent way even though it has a button.
   * Trignometric Functions: I use ⇧ S, ⇧ C, and ⇧ T for sine, cosine, and tangent.
-  * Hyperbolic Trignometric Functions: For these less common functions, to be consistent with the circular trignometric functions I use the same letters but instead use ^.
+* Use other modifiers when necessary and in a consistent fashion:
+  * Inverse Operations: I use the option key in general as an “inverse” key, so, for example square root is ⇧ ⌥ 2, and inverse sine is ⇧ ⌥ S .
+  * Exponential & Logarithmic Functions: With both x² and 2<sup>x</sup> referencing 2, the latter and other more complicated functions require a different modifier, so I use the control key ^ to avoid conflicts with system and application use of ⌘ .
+  * Hyperbolic Trignometric Functions: For these less common functions, to be consistent with the circular trignometric functions I use the same letters but instead use ^: ^ S, ^ C, and ^ T.
+
+One button that doesn’t seem to be addressable is y<sup>x</sup>, as it doesn’t appear to be named in a consistent way to other buttons.
 
 These macros work with MacOS 12 Monterey, and probably with later versions, too; earlier versions may be missing some functions.
 
