@@ -47,7 +47,7 @@ My key assignments are in the following table, using the following symbols for k
     <td> log₁₀ <var>x</var> </td>                  <td> Logarithm Base 10 </td> <td> ⌘ ⌥ 1 </td><td> No </td></tr>
 <tr><td> log₂ <var>x</var> </td>                   <td> Logarithm Base 2 </td>  <td> ⌘ ⌥ 2 </td><td> No </td></tr>
 <tr><td> log<sub><i>y</i></sub> <var>x</var> </td> <td> Logarithm Base y </td>  <td> ⌘ ⌥ 6 </td><td> No </td></tr>
-<tr><td> log<sub><i>e</i></sub> <var>x</var> </td> <td> Natural Logarithm </td> <td> ⌘ ⌥ E </td><td> No </td></tr>
+<tr><td> ln <var>x</var> </td> <td> Natural Logarithm log<sub><i>e</i></sub> <var>x</var> </td> <td> ⌘ ⌥ E </td><td> No </td></tr>
 
 <tr><td rowspan=6> Trignometric Functions </td>
     <td> sin <var>x</var> </td>    <td> Sine </td>             <td> ⇧ S </td>    <td> No </td></tr>
