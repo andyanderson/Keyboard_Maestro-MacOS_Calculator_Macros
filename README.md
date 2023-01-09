@@ -41,13 +41,13 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> <sup><var>y</var></sup>√<var>x</var> </td>    <td> yth Root </td>              <td> ⇧ ⌥ 6 </td>                           <td> No </td></tr>
 
 <tr><td rowspan=7> Exponential & Logarithmic Functions </td>
-    <td> 10<sup><var>x</var></sup> </td>       <td> Power of 10 </td>          <td> ^ 1 </td> <td> No </td></tr>
-<tr><td> 2<sup><var>x</var></sup> </td>        <td> Power of 2 </td>           <td> ^ 2 </td> <td> No </td></tr>
-<tr><td> <i>e</i><sup><var>x</var></sup> </td> <td> Exponential Function </td> <td> ^ E </td> <td> No </td></tr>
-    <td> log₁₀ <var>x</var> </td>                  <td> Logarithm Base 10 </td> <td> ^ ⌥ 1 </td><td> No </td></tr>
-<tr><td> log₂ <var>x</var> </td>                   <td> Logarithm Base 2 </td>  <td> ^ ⌥ 2 </td><td> No </td></tr>
-<tr><td> log<sub><i>y</i></sub> <var>x</var> </td> <td> Logarithm Base y </td>  <td> ^ ⌥ 6 </td><td> No </td></tr>
-<tr><td> log<sub><i>e</i></sub> <var>x</var> </td> <td> Natural Logarithm </td> <td> ^ ⌥ E </td><td> No </td></tr>
+    <td> 10<sup><var>x</var></sup> </td>       <td> Power of 10 </td>          <td> ⌘ 1 </td> <td> No </td></tr>
+<tr><td> 2<sup><var>x</var></sup> </td>        <td> Power of 2 </td>           <td> ⌘ 2 </td> <td> No </td></tr>
+<tr><td> <i>e</i><sup><var>x</var></sup> </td> <td> Exponential Function </td> <td> ⌘ E </td> <td> No </td></tr>
+    <td> log₁₀ <var>x</var> </td>                  <td> Logarithm Base 10 </td> <td> ⌘ ⌥ 1 </td><td> No </td></tr>
+<tr><td> log₂ <var>x</var> </td>                   <td> Logarithm Base 2 </td>  <td> ⌘ ⌥ 2 </td><td> No </td></tr>
+<tr><td> log<sub><i>y</i></sub> <var>x</var> </td> <td> Logarithm Base y </td>  <td> ⌘ ⌥ 6 </td><td> No </td></tr>
+<tr><td> log<sub><i>e</i></sub> <var>x</var> </td> <td> Natural Logarithm </td> <td> ⌘ ⌥ E </td><td> No </td></tr>
 
 <tr><td rowspan=6> Trignometric Functions </td>
     <td> sin <var>x</var> </td>    <td> Sine </td>             <td> ⇧ S </td>    <td> No </td></tr>
@@ -92,11 +92,11 @@ Philosophy of Key Choices
   * Numbers: Digits are both buttons and the obvious keys, but the button <i>π</i> is also assigned to P, so I also use unmodified keys for other values, both for existing buttons without keys like <i>e</i> and Rand, and for a couple more I provide.
   * Controls: Clear is assigned C and Equals is assigned =, so I also use unmodified keys for other controls such as the memory controls and the radians / degree toggle.
   * Basic Operations and Algebraic Functions: Many of these have buttons that also work with shifted keys, e.g. +, ^, and scientific notation, so I continue that pattern for buttons without assigned keys like inverse (⇧ /) and square (⇧ 2 — perfect symbol for “raising to the power of 2“). I also add other common functions in this family, notably negation (⇧ -), which already exists as ⌥ -, but the latter doesn’t follow the pattern and so is harder to remember (I do leave it in place, though).
+  * Exponential & Logarithmic Functions: With both x² and 2<sup>x</sup> referencing 2, the latter and other more complicated functions require a different modifier, so I use the command key ⌘.
   * Trignometric Functions: I use ⇧ S, ⇧ C, and ⇧ T for sine, cosine, and tangent.
 * Use other modifiers when necessary and in a consistent fashion:
   * Inverse Operations: I use the option key in general as an “inverse” key, so, for example square root is ⇧ ⌥ 2, and inverse sine is ⇧ ⌥ S .
-  * Exponential & Logarithmic Functions: With both x² and 2<sup>x</sup> referencing 2, the latter and other more complicated functions require a different modifier, so I use the control key ^ to avoid conflicts with system and application use of ⌘ .
-  * Hyperbolic Trignometric Functions: For these less common functions, to be consistent with the circular trignometric functions I use the same letters but instead use ^: ^ S, ^ C, and ^ T.
+  * Hyperbolic Trignometric Functions: For these less common functions, to be consistent with the circular trignometric functions and avoid collisions with the keys for Save, Copy, and Show Paper Tape, I use the same letters but instead use ^ : ^ S, ^ C, and ^ T.
 
 One button that doesn’t seem to be addressable is y<sup>x</sup>, as it doesn’t appear to be named in a consistent way to other buttons.
 
