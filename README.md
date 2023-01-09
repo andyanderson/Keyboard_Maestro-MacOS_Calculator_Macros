@@ -40,9 +40,10 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> ∛<var>x</var> </td>                           <td> Cube Root </td>             <td> ⇧ ⌥ 3 </td>                           <td> No </td></tr>
 <tr><td> <sup><var>y</var></sup>√<var>x</var> </td>    <td> yth Root </td>              <td> ⇧ ⌥ 6 </td>                           <td> No </td></tr>
 
-<tr><td rowspan=7> Exponential & Logarithmic Functions </td>
+<tr><td rowspan=8> Exponential & Logarithmic Functions </td>
     <td> 10<sup><var>x</var></sup> </td>       <td> Power of 10 </td>          <td> ⌘ 1 </td> <td> No </td></tr>
 <tr><td> 2<sup><var>x</var></sup> </td>        <td> Power of 2 </td>           <td> ⌘ 2 </td> <td> No </td></tr>
+<tr><td> y<sup><var>x</var></sup> </td>        <td> Power of y </td>           <td> ⌘ 6 </td> <td> No </td></tr>
 <tr><td> <i>e</i><sup><var>x</var></sup> </td> <td> Exponential Function </td> <td> ⌘ E </td> <td> No </td></tr>
     <td> log₁₀ <var>x</var> </td>                  <td> Logarithm Base 10 </td> <td> ⌘ ⌥ 1 </td><td> No </td></tr>
 <tr><td> log₂ <var>x</var> </td>                   <td> Logarithm Base 2 </td>  <td> ⌘ ⌥ 2 </td><td> No </td></tr>
@@ -98,7 +99,7 @@ Philosophy of Key Choices
   * Inverse Operations: I use the option key in general as an “inverse” key, so, for example square root is ⇧ ⌥ 2, and inverse sine is ⇧ ⌥ S .
   * Hyperbolic Trignometric Functions: For these less common functions, to be consistent with the circular trignometric functions and avoid collisions with the keys for Save, Copy, and Show Paper Tape, I use the same letters but instead use ^ : ^ S, ^ C, and ^ T.
 
-One button that doesn’t seem to be addressable is y<sup>x</sup>, as it doesn’t appear to be named in a consistent way to other buttons.
+One button that doesn’t seem to be addressable is y<sup>x</sup>, as it doesn’t appear to be named in a consistent way to other buttons. So it’s implemented based on a window-referenced click.
 
 These macros work with MacOS 12 Monterey, and probably with later versions, too; earlier versions may be missing some functions.
 
