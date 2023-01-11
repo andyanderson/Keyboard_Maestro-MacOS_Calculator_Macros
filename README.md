@@ -69,7 +69,7 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td rowspan=3> Numeration Bases </td>
     <td> 8 </td>   <td> Base 8 </td>    <td> ⌘ ^ 8 </td>  <td> No </td></tr>
 <tr><td> 10 </td>  <td> Base 10 </td>   <td> ⌘ ^ 0 </td>  <td> No </td></tr>
-<tr><td> 16 </td>  <td> Base 16  </td>  <td> ⌘ ^ 9 </td>  <td> No </td></tr>
+<tr><td> 16 </td>  <td> Base 16  </td>  <td> ⌘ ^ 6 </td>  <td> No </td></tr>
 
 <tr><td rowspan=9> Controls </td>
     <td> = </td>          <td> Equals (Evaluate) </td>         <td> = &nbsp;<var>or</var> &nbsp;return </td>      <td> Yes </td></tr>
@@ -89,7 +89,7 @@ My key assignments are in the following table, using the following symbols for k
 
 </table>
 
-Philosophy of Key Choices
+### Philosophy of Key Choices
 
 * Avoid system-wide key assignments, and leave all of the calculator’s existing key assignments in place if possible.
   * The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and instead use ^ ⌥ E for natural logarithm (since I assign ^ E to the exponential function). This is more in keeping with the other assignments for operations.
