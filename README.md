@@ -65,6 +65,11 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> sinh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Sine </td>     <td> ^ ⌥ S </td>  <td> No </td></tr>
 <tr><td> cosh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Cosine </td>   <td> ^ ⌥ C </td>  <td> No </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Tangent </td>  <td> ^ ⌥ T </td>  <td> No </td></tr>
+  
+<tr><td rowspan=3> Numeration Bases </td>
+    <td> 8 </td>   <td> Base 8 </td>    <td> ⌘ ^ 8 </td>  <td> No </td></tr>
+<tr><td> 10 </td>  <td> Base 10 </td>   <td> ⌘ ^ 0 </td>  <td> No </td></tr>
+<tr><td> 16 </td>  <td> Base 16  </td>  <td> ⌘ ^ 9 </td>  <td> No </td></tr>
 
 <tr><td rowspan=9> Controls </td>
     <td> = </td>          <td> Equals (Evaluate) </td>         <td> = &nbsp;<var>or</var> &nbsp;return </td>      <td> Yes </td></tr>
@@ -88,7 +93,7 @@ Philosophy of Key Choices
 
 * Avoid system-wide key assignments, and leave all of the calculator’s existing key assignments in place if possible.
   * The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and instead use ^ ⌥ E for natural logarithm (since I assign ^ E to the exponential function). This is more in keeping with the other assignments for operations.
-  * The other exception is the assignments for views, which as noted above use command keys I’d rather use for calculations. My general pattern for views or windows within an application is also to use the modifiers ⌘ ^, so that shows up here, too, along with more memorable letter choices.
+  * The other exception is the assignments for views, which as noted above use command keys I’d rather use for calculations. My general pattern for views or windows within an application is also to use the modifiers ⌘ ^, so that shows up here, too, along with more memorable letter choices. I also use this pattern for numeration bases in the programmer view, i.e. octal, decimal, and hexadecimal.
 * Otherwise follow existing patterns for key choices.
   * Numbers: Digits are both buttons and the obvious keys, but the button <i>π</i> is also assigned to P, so I also use unmodified keys for other values, both for existing buttons without keys like <i>e</i> and Rand, and for a couple more I provide.
   * Controls: Clear is assigned C and Equals is assigned =, so I also use unmodified keys for other controls such as the memory controls and the radians / degree toggle.
