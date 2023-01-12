@@ -65,14 +65,27 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> sinh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Sine </td>     <td> ^ ⌥ S </td>  <td> No </td></tr>
 <tr><td> cosh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Cosine </td>   <td> ^ ⌥ C </td>  <td> No </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Tangent </td>  <td> ^ ⌥ T </td>  <td> No </td></tr>
-  
+
+<tr><td rowspan=7> Bitwise Operations </td>
+    <td> AND </td>  <td> And </td>                                        <td> & &nbsp;<var>aka</var>&nbsp; ⇧ 7 </td>    <td> Yes </td></tr>
+<tr><td> OR </td>   <td> Or </td>                                         <td> | &nbsp;<var>aka</var>&nbsp; ⇧ \ </td>    <td> Yes </td></tr>
+<tr><td> XOR </td>  <td> Exclusive Or </td>                               <td> ~ &nbsp;<var>aka</var>&nbsp; ⇧ ` </td>    <td> Yes </td></tr>
+<tr><td> NOR </td>  <td> Nor </td>                                        <td> ↓ </td>                                   <td> No </td></tr>
+<tr><td> NOT </td>  <td> Not </td>                                        <td> ! </td>                                   <td> No </td></tr>
+<tr><td> << </td>   <td> Shift Left 1 Bit </td>                           <td> < &nbsp;<var>aka</var>&nbsp; ⇧ , </td>    <td> Yes </td></tr>
+<tr><td> >> </td>   <td> Shift Right 1 Bit </td>                          <td> > &nbsp;<var>aka</var>&nbsp; ⇧ . </td>    <td> Yes </td></tr>
+<tr><td> << <var>y</var> </td>  <td> Shift Left <var>y</var> Bits </td>   <td> → </td>                                   <td> No </td></tr>
+<tr><td> >> <var>y</var> </td>  <td> Shift Right <var>y</var> Bits </td>  <td> ← </td>                                   <td> No </td></tr>
+<tr><td> RoR </td>  <td> Rotate Right </td>                               <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td>    <td> Yes </td></tr>
+
 <tr><td rowspan=3> Numeration Bases </td>
-    <td> 8 </td>   <td> Base 8 </td>    <td> ⌘ ^ 8 </td>  <td> No </td></tr>
-<tr><td> 10 </td>  <td> Base 10 </td>   <td> ⌘ ^ 0 </td>  <td> No </td></tr>
-<tr><td> 16 </td>  <td> Base 16  </td>  <td> ⌘ ^ 6 </td>  <td> No </td></tr>
+    <td> 8 </td>        <td> Base 8 </td>                                  <td> ⌘ ^ 8 </td>  <td> No </td></tr>
+<tr><td> 10 </td>       <td> Base 10 </td>                                 <td> ⌘ ^ 0 </td>  <td> No </td></tr>
+<tr><td> 16 </td>       <td> Base 16  </td>                                <td> ⌘ ^ 6 </td>  <td> No </td></tr>
+<tr><td> 8 10 16 </td>  <td> Step Through Bases: 8 to 10 to 16 to 8 </td>  <td> R </td>      <td> Yes </td></tr>
 
 <tr><td rowspan=9> Controls </td>
-    <td> = </td>          <td> Equals (Evaluate) </td>         <td> = &nbsp;<var>or</var> &nbsp;return </td>      <td> Yes </td></tr>
+    <td> = </td>          <td> Equals (Evaluate) </td>         <td> = &nbsp;<var>or</var> &nbsp; return </td>      <td> Yes </td></tr>
 <tr><td> C </td>          <td> Clear Entry </td>               <td> C &nbsp;<var>or</var> &nbsp; esc </td>        <td> Yes </td></tr>
 <tr><td> C C </td>        <td> Clear Calculation </td>         <td> C C &nbsp;<var>or</var> &nbsp; esc esc </td>  <td> Yes </td></tr>
 <tr><td> Rad ↺ Deg </td>  <td> Radians ↺ Degrees Toggle </td>  <td> D </td>                                       <td> No </td></tr>
