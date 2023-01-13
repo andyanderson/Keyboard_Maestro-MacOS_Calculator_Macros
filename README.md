@@ -30,41 +30,41 @@ My key assignments are in the following table, using the following symbols for k
 <tr>                                                                        <td> ⇧ - </td>                              <td> No </td></tr>
 
 <tr><td rowspan=9> Algebraic Functions </td>
-    <td> 1/<var>x</var> </td>                          <td> Inverse (Reciprocal) </td>  <td> ⇧ / </td>                             <td> No </td></tr>
-<tr><td> <var>x</var>! </td>                           <td> Factorial </td>             <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td><td> Yes </td></tr>
-<tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td><td> Scientific Notation </td>   <td> ⇧ E </td>                             <td> Yes </td></tr>
-<tr><td> <var>x</var><sup>2</sup> </td>                <td> Square </td>                <td> ⇧ 2 </td>                             <td> No </td></tr>
-<tr><td> <var>x</var><sup>3</sup> </td>                <td> Cube </td>                  <td> ⇧ 3 </td>                             <td> No </td></tr>
-<tr><td> <var>x</var><sup><var>y</var></sup> </td>     <td> Power (Exponentiation) </td><td> ^ &nbsp;<var>aka</var>&nbsp; ⇧ 6 </td><td> Yes </td></tr>
-<tr><td> √<var>x</var> </td>                           <td> Square Root </td>           <td> ⇧ ⌥ 2 </td>                           <td> No </td></tr>
-<tr><td> ∛<var>x</var> </td>                           <td> Cube Root </td>             <td> ⇧ ⌥ 3 </td>                           <td> No </td></tr>
-<tr><td> <sup><var>y</var></sup>√<var>x</var> </td>    <td> yth Root </td>              <td> ⇧ ⌥ 6 </td>                           <td> No </td></tr>
+    <td> 1/<var>x</var> </td>                           <td> Inverse (Reciprocal) </td>   <td> ⇧ / </td>                             <td> No </td></tr>
+<tr><td> <var>x</var>! </td>                            <td> Factorial </td>              <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td><td> Yes </td></tr>
+<tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td> <td> Scientific Notation </td>    <td> ⇧ E </td>                             <td> Yes </td></tr>
+<tr><td> <var>x</var><sup>2</sup> </td>                 <td> Square </td>                 <td> ⇧ 2 </td>                             <td> No </td></tr>
+<tr><td> <var>x</var><sup>3</sup> </td>                 <td> Cube </td>                   <td> ⇧ 3 </td>                             <td> No </td></tr>
+<tr><td> <var>x</var><sup><var>y</var></sup> </td>      <td> Power (Exponentiation) </td> <td> ^ &nbsp;<var>aka</var>&nbsp; ⇧ 6 </td><td> Yes </td></tr>
+<tr><td> √<var>x</var> </td>                            <td> Square Root </td>            <td> ⇧ ⌥ 2 </td>                           <td> No </td></tr>
+<tr><td> ∛<var>x</var> </td>                            <td> Cube Root </td>              <td> ⇧ ⌥ 3 </td>                           <td> No </td></tr>
+<tr><td> <sup><var>y</var></sup>√<var>x</var> </td>     <td> yth Root </td>               <td> ⇧ ⌥ 6 </td>                           <td> No </td></tr>
 
 <tr><td rowspan=8> Exponential & Logarithmic Functions </td>
-    <td> 10<sup><var>x</var></sup> </td>       <td> Power of 10 </td>          <td> ⌘ 1 </td> <td> No<sup>*</sup> </td></tr>
-<tr><td> 2<sup><var>x</var></sup> </td>        <td> Power of 2 </td>           <td> ⌘ 2 </td> <td> No<sup>*</sup> </td></tr>
-<tr><td> y<sup><var>x</var></sup> </td>        <td> Power of y </td>           <td> ⌘ 6 </td> <td> No </td></tr>
-<tr><td> <i>e</i><sup><var>x</var></sup> </td> <td> Exponential Function </td> <td> ⌘ E </td> <td> No </td></tr>
-    <td> log₁₀ <var>x</var> </td>                  <td> Logarithm Base 10 </td> <td> ⌘ ⌥ 1 </td><td> No </td></tr>
-<tr><td> log₂ <var>x</var> </td>                   <td> Logarithm Base 2 </td>  <td> ⌘ ⌥ 2 </td><td> No </td></tr>
-<tr><td> log<sub><i>y</i></sub> <var>x</var> </td> <td> Logarithm Base y </td>  <td> ⌘ ⌥ 6 </td><td> No </td></tr>
-<tr><td> ln <var>x</var> </td> <td> Natural Logarithm Base e </td> <td> ⌘ ⌥ E </td><td> No </td></tr>
+    <td> 10<sup><var>x</var></sup> </td>       <td> Power of 10 </td>              <td> ⌘ 1 </td> <td> No<sup>*</sup> </td></tr>
+<tr><td> 2<sup><var>x</var></sup> </td>        <td> Power of 2 </td>               <td> ⌘ 2 </td> <td> No<sup>*</sup> </td></tr>
+<tr><td> y<sup><var>x</var></sup> </td>        <td> Power of y </td>               <td> ⌘ 6 </td> <td> No </td></tr>
+<tr><td> <i>e</i><sup><var>x</var></sup> </td> <td> Exponential Function </td>     <td> ⌘ E </td> <td> No </td></tr>
+    <td> log₁₀ </td>                           <td> Logarithm Base 10 </td>        <td> ⌘ ⌥ 1 </td><td> No </td></tr>
+<tr><td> log₂ </td>                            <td> Logarithm Base 2 </td>         <td> ⌘ ⌥ 2 </td><td> No </td></tr>
+<tr><td> log<sub><i>y</i></sub> </td>          <td> Logarithm Base y </td>         <td> ⌘ ⌥ 6 </td><td> No </td></tr>
+<tr><td> ln </td>                              <td> Natural Logarithm Base e </td> <td> ⌘ ⌥ E </td><td> No </td></tr>
 
 <tr><td rowspan=6> Trignometric Functions </td>
-    <td> sin <var>x</var> </td>    <td> Sine </td>             <td> ⇧ S </td>    <td> No </td></tr>
-<tr><td> cos <var>x</var> </td>    <td> Cosine </td>           <td> ⇧ C </td>    <td> No </td></tr>
-<tr><td> tan <var>x</var> </td>    <td> Tangent </td>          <td> ⇧ T </td>    <td> No </td></tr>
-<tr><td> sin⁻¹ <var>x</var> </td>  <td> Inverse Sine </td>     <td> ⇧ ⌥ S </td>  <td> No </td></tr>
-<tr><td> cos⁻¹ <var>x</var> </td>  <td> Inverse Cosine </td>   <td> ⇧ ⌥ C </td>  <td> No </td></tr>
-<tr><td> tan⁻¹ <var>x</var> </td>  <td> Inverse Tangent </td>  <td> ⇧ ⌥ T </td>  <td> No </td></tr>
+    <td> sin </td>    <td> Sine </td>             <td> ⇧ S </td>    <td> No </td></tr>
+<tr><td> cos </td>    <td> Cosine </td>           <td> ⇧ C </td>    <td> No </td></tr>
+<tr><td> tan </td>    <td> Tangent </td>          <td> ⇧ T </td>    <td> No </td></tr>
+<tr><td> sin⁻¹ </td>  <td> Inverse Sine </td>     <td> ⇧ ⌥ S </td>  <td> No </td></tr>
+<tr><td> cos⁻¹ </td>  <td> Inverse Cosine </td>   <td> ⇧ ⌥ C </td>  <td> No </td></tr>
+<tr><td> tan⁻¹ </td>  <td> Inverse Tangent </td>  <td> ⇧ ⌥ T </td>  <td> No </td></tr>
 
 <tr><td rowspan=6> Hyperbolic Trignometric Functions </td>
-    <td> sinh <var>x</var> </td>    <td> Hyperbolic Sine </td>             <td> ^ S </td>    <td> No </td></tr>
-<tr><td> cosh <var>x</var> </td>    <td> Hyperbolic Cosine </td>           <td> ^ C </td>    <td> No </td></tr>
-<tr><td> tanh <var>x</var> </td>    <td> Hyperbolic Tangent </td>          <td> ^ T </td>    <td> No </td></tr>
-<tr><td> sinh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Sine </td>     <td> ^ ⌥ S </td>  <td> No </td></tr>
-<tr><td> cosh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Cosine </td>   <td> ^ ⌥ C </td>  <td> No </td></tr>
-<tr><td> tanh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Tangent </td>  <td> ^ ⌥ T </td>  <td> No </td></tr>
+    <td> sinh </td>    <td> Hyperbolic Sine </td>             <td> ^ S </td>    <td> No </td></tr>
+<tr><td> cosh </td>    <td> Hyperbolic Cosine </td>           <td> ^ C </td>    <td> No </td></tr>
+<tr><td> tanh </td>    <td> Hyperbolic Tangent </td>          <td> ^ T </td>    <td> No </td></tr>
+<tr><td> sinh⁻¹ </td>  <td> Inverse Hyperbolic Sine </td>     <td> ^ ⌥ S </td>  <td> No </td></tr>
+<tr><td> cosh⁻¹ </td>  <td> Inverse Hyperbolic Cosine </td>   <td> ^ ⌥ C </td>  <td> No </td></tr>
+<tr><td> tanh⁻¹ </td>  <td> Inverse Hyperbolic Tangent </td>  <td> ^ ⌥ T </td>  <td> No </td></tr>
 
 <tr><td rowspan=13> Bitwise Operations </td>
     <td> AND </td>              <td> And </td>                            <td> & &nbsp;<var>aka</var>&nbsp; ⇧ 7 </td>  <td> Yes </td></tr>
