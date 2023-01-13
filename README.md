@@ -81,7 +81,7 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> RoL </td>              <td> Rotate Left </td>                    <td> ← </td>                                 <td> No </td></tr>
 <tr><td> RoR </td>              <td> Rotate Right </td>                   <td> → </td>                                 <td> No<sup>*</sup> </td></tr>
 
-<tr><td rowspan=3> Numeration Bases </td>
+<tr><td rowspan=4> Numeration Bases </td>
     <td> 8 </td>        <td> Base 8 </td>                                  <td> ⌘ ^ 8 </td>  <td> No </td></tr>
 <tr><td> 10 </td>       <td> Base 10 </td>                                 <td> ⌘ ^ 0 </td>  <td> No </td></tr>
 <tr><td> 16 </td>       <td> Base 16  </td>                                <td> ⌘ ^ 6 </td>  <td> No </td></tr>
