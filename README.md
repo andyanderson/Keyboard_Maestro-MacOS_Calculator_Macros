@@ -86,7 +86,7 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> 10 </td>       <td> Base 10 </td>                                 <td> ⌘ ^ 0 </td>  <td> No </td></tr>
 <tr><td> 16 </td>       <td> Base 16  </td>                                <td> ⌘ ^ 6 </td>  <td> No </td></tr>
 <tr><td> 8 10 16 </td>  <td> Step Through Bases: 8 to 10 to 16 to 8 </td>  <td> R </td>      <td> Yes </td></tr>
-<tr><td> 2 </td>        <td> Show or Hide Binary Encoding</td>             <td> ⌘ B </td>    <td> No </td></tr>
+<tr><td> Binary </td>   <td> Show or Hide Binary Encoding</td>             <td> ⌘ B </td>    <td> No </td></tr>
 <tr><td> ASCII </td>    <td> Show or Hide ASCII Encoding </td>             <td> ⌘ A </td>    <td> No </td></tr>
 <tr><td> Unicode </td>  <td> Show or Hide Unicode Encoding </td>           <td> ⌘ U </td>    <td> No </td></tr>
 
