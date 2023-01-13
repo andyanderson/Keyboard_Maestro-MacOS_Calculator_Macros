@@ -71,15 +71,15 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> OR </td>               <td> Or </td>                             <td> | &nbsp;<var>aka</var>&nbsp; ⇧ \ </td>  <td> Yes </td></tr>
 <tr><td> XOR </td>              <td> Exclusive Or </td>                   <td> ^ &nbsp;<var>aka</var>&nbsp; ⇧ ` </td>  <td> No<sup>*</sup> </td></tr>
 <tr><td> NOR </td>              <td> Nor </td>                            <td> ↓ </td>                                 <td> No </td></tr>
-<tr><td> NOT </td>              <td> Not </td>                            <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td>  <td> No<sup>*</sup> </td></tr>
-<tr><td> 1's </td>              <td> 1's Complement </td>                 <td> ~ &nbsp;<var>aka</var>&nbsp; ⇧ ` </td>  <td> No<sup>*</sup> </td></tr>
+<tr><td> 1's </td>              <td> 1's Complement (NOT) </td>           <td> ~ &nbsp;<var>aka</var>&nbsp; ⇧ ` </td>  <td> No<sup>*</sup> </td></tr>
 <tr><td> 2's </td>              <td> 2's Complement </td>                 <td> ` </td>                                 <td> No<sup>*</sup> </td></tr>
 <tr><td> << </td>               <td> Shift Left 1 Bit </td>               <td> < &nbsp;<var>aka</var>&nbsp; ⇧ , </td>  <td> Yes </td></tr>
 <tr><td> >> </td>               <td> Shift Right 1 Bit </td>              <td> > &nbsp;<var>aka</var>&nbsp; ⇧ . </td>  <td> Yes </td></tr>
 <tr><td> << <var>y</var> </td>  <td> Shift Left <var>y</var> Bits </td>   <td> , </td>                                 <td> No </td></tr>
 <tr><td> >> <var>y</var> </td>  <td> Shift Right <var>y</var> Bits </td>  <td> . </td>                                 <td> No </td></tr>
 <tr><td> RoL </td>              <td> Rotate Left </td>                    <td> ← </td>                                 <td> No </td></tr>
-<tr><td> RoR </td>              <td> Rotate Right </td>                   <td> → </td>                                 <td> No<sup>*</sup> </td></tr>
+<tr><td rowspan=2> RoR </td>    <td rowspan=2> Rotate Right </td>         <td> → </td>                                 <td> No </td></tr>
+<tr>                                                                      <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td>  <td> Yes </td></tr>
 
 <tr><td rowspan=6> Numeration Bases and Encodings </td>
     <td> 8 </td>        <td> Base 8 </td>                                  <td> ⌘ ^ 8 </td>  <td> No </td></tr>
@@ -111,7 +111,7 @@ My key assignments are in the following table, using the following symbols for k
 
 * Avoid system-wide key assignments, and leave all of the calculator’s existing key assignments in place if possible.
   * <sup>*</sup>The major exception here is that Apple assigns unshifted E to the natural logarithm function, while I assign that to the constant <var>e</var>, and instead use ^ ⌥ E for natural logarithm (since I assign ^ E to the exponential function). This is more in keeping with the other assignments for operations.
-  * The other major exception are the keys for bitwise operations, which when assigned often don’t use the operators I’m familiar with from C-flavored languages. So XOR is reassigned to ^ so that ~ can be used for 1's Complement, and RoR is reassigned to →  so that ! can be used for NOT.
+  * The other major exception are the keys for bitwise operations, which when assigned often don’t use the operators I’m familiar with from C-flavored languages. So XOR is reassigned to ^ so that ~ can be used for 1's Complement (NOT).
   * The last exception is the assignments for views, which as noted above use command keys I’d rather use for calculations. My general pattern for views or windows within an application is also to use the modifiers ⌘ ^, so that shows up here, too, along with more memorable letter choices. I also use this pattern for numeration bases in the programmer view, i.e. octal, decimal, and hexadecimal.
 * Otherwise follow existing patterns for key choices.
   * Numbers: Digits are both buttons and the obvious keys, but the button <i>π</i> is also assigned to P, so I also use unmodified keys for other values, both for existing buttons without keys like <i>e</i> and Rand, and for a couple more I provide.
