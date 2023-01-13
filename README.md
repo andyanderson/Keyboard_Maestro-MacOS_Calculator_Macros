@@ -26,7 +26,7 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> + </td>            <td> Addition </td>                      <td> + &nbsp;<var>aka</var>&nbsp; ⇧ = </td> <td> Yes </td></tr>
 <tr><td> × </td>            <td> Multiplication </td>                <td> * &nbsp;<var>aka</var>&nbsp; ⇧ 8 </td> <td> Yes </td></tr>
 <tr><td> % </td>            <td> Percentage to Decimal, ÷ 100 </td>  <td> % &nbsp;<var>aka</var>&nbsp; ⇧ 5 </td> <td> Yes </td></tr>
-<tr><td> 1/% </td>          <td> Decimal to Percentage, × 100 </td>  <td> ⇧ ⌥ 5 </td>                            <td> Yes </td></tr>
+<tr><td> 1/% </td>          <td> Decimal to Percentage, × 100 </td>  <td> ⇧ ⌥ 5 </td>                            <td> No </td></tr>
 <tr><td rowspan=2> ± </td>  <td rowspan=2> Negation </td>            <td> ⇧ - </td>                              <td> No </td></tr>
 <tr>                                                                 <td> ⌥ - </td>                              <td> Yes </td></tr>
 
