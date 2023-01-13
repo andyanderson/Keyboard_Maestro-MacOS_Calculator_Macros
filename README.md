@@ -123,8 +123,6 @@ My key assignments are in the following table, using the following symbols for k
   * Inverse Operations: I use the option key in general as an “inverse” key, so, for example square root is ⇧ ⌥ 2, and inverse sine is ⇧ ⌥ S .
   * Hyperbolic Trignometric Functions: For these less common functions, to be consistent with the circular trignometric functions and avoid collisions with the keys for Save, Copy, and Show Paper Tape, I use the same letters but instead use ^ : ^ S, ^ C, and ^ T.
 
-One button that doesn’t seem to be addressable is y<sup>x</sup>, as it doesn’t appear to be named in a consistent way to other buttons. So it’s implemented based on a window-referenced click.
-
 These macros work with MacOS 12 Monterey, and probably with later versions, too; earlier versions may be missing some functions.
 
 It took a while to figure out what all of the button names are, and I can thank several people in [the Keyboard Maestro forums](https://forum.keyboardmaestro.com/t/km-macros-can-t-find-all-calculator-buttons/29859) for their assistance.
