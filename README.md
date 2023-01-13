@@ -41,8 +41,8 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> <sup><var>y</var></sup>√<var>x</var> </td>    <td> yth Root </td>              <td> ⇧ ⌥ 6 </td>                           <td> No </td></tr>
 
 <tr><td rowspan=8> Exponential & Logarithmic Functions </td>
-    <td> 10<sup><var>x</var></sup> </td>       <td> Power of 10 </td>          <td> ⌘ 1 </td> <td> No </td></tr>
-<tr><td> 2<sup><var>x</var></sup> </td>        <td> Power of 2 </td>           <td> ⌘ 2 </td> <td> No </td></tr>
+    <td> 10<sup><var>x</var></sup> </td>       <td> Power of 10 </td>          <td> ⌘ 1 </td> <td> No<sup>*</sup> </td></tr>
+<tr><td> 2<sup><var>x</var></sup> </td>        <td> Power of 2 </td>           <td> ⌘ 2 </td> <td> No<sup>*</sup> </td></tr>
 <tr><td> y<sup><var>x</var></sup> </td>        <td> Power of y </td>           <td> ⌘ 6 </td> <td> No </td></tr>
 <tr><td> <i>e</i><sup><var>x</var></sup> </td> <td> Exponential Function </td> <td> ⌘ E </td> <td> No </td></tr>
     <td> log₁₀ <var>x</var> </td>                  <td> Logarithm Base 10 </td> <td> ⌘ ⌥ 1 </td><td> No </td></tr>
@@ -66,17 +66,18 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> cosh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Cosine </td>   <td> ^ ⌥ C </td>  <td> No </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Tangent </td>  <td> ^ ⌥ T </td>  <td> No </td></tr>
 
-<tr><td rowspan=7> Bitwise Operations </td>
+<tr><td rowspan=11> Bitwise Operations </td>
     <td> AND </td>  <td> And </td>                                        <td> & &nbsp;<var>aka</var>&nbsp; ⇧ 7 </td>    <td> Yes </td></tr>
 <tr><td> OR </td>   <td> Or </td>                                         <td> | &nbsp;<var>aka</var>&nbsp; ⇧ \ </td>    <td> Yes </td></tr>
-<tr><td> XOR </td>  <td> Exclusive Or </td>                               <td> ~ &nbsp;<var>aka</var>&nbsp; ⇧ ` </td>    <td> Yes </td></tr>
+<tr><td> XOR </td>  <td> Exclusive Or </td>                               <td> ^ &nbsp;<var>aka</var>&nbsp; ⇧ ` </td>    <td> No<sup>*</sup> </td></tr>
 <tr><td> NOR </td>  <td> Nor </td>                                        <td> ↓ </td>                                   <td> No </td></tr>
-<tr><td> NOT </td>  <td> Not </td>                                        <td> ! </td>                                   <td> No </td></tr>
+<tr><td> NOT </td>  <td> Not </td>                                        <td> ! </td>                                   <td> No<sup>*</sup> </td></tr>
+<tr><td> 1's </td>  <td> Complement </td>                                 <td> ~ &nbsp;<var>aka</var>&nbsp; ⇧ ` </td>    <td> No<sup>*</sup> </td></tr>
 <tr><td> << </td>   <td> Shift Left 1 Bit </td>                           <td> < &nbsp;<var>aka</var>&nbsp; ⇧ , </td>    <td> Yes </td></tr>
 <tr><td> >> </td>   <td> Shift Right 1 Bit </td>                          <td> > &nbsp;<var>aka</var>&nbsp; ⇧ . </td>    <td> Yes </td></tr>
 <tr><td> << <var>y</var> </td>  <td> Shift Left <var>y</var> Bits </td>   <td> → </td>                                   <td> No </td></tr>
 <tr><td> >> <var>y</var> </td>  <td> Shift Right <var>y</var> Bits </td>  <td> ← </td>                                   <td> No </td></tr>
-<tr><td> RoR </td>  <td> Rotate Right </td>                               <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td>    <td> Yes </td></tr>
+<tr><td> RoR </td>  <td> Rotate Right </td>                               <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td>    <td> No<sup>*</sup> </td></tr>
 
 <tr><td rowspan=3> Numeration Bases </td>
     <td> 8 </td>        <td> Base 8 </td>                                  <td> ⌘ ^ 8 </td>  <td> No </td></tr>
@@ -96,9 +97,9 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> mr </td>         <td> Memory Recall </td>             <td> M </td>                                       <td> No </td></tr>
   
 <tr><td rowspan=3> Views </td>
-    <td> Basic </td>       <td> Basic Operations only </td>              <td> ⌘ ^ B </td>  <td> No </td></tr>
-<tr><td> Scientific </td>  <td> Full-Featured Decimal Calculator </td>   <td> ⌘ ^ S </td>  <td> No </td></tr>
-<tr><td> Programmer </td>  <td> Useful Operations for Programming </td>  <td> ⌘ ^ P </td>  <td> No </td></tr>
+    <td> Basic </td>       <td> Basic Operations only </td>              <td> ⌘ ^ B </td>  <td> No<sup>*</sup> </td></tr>
+<tr><td> Scientific </td>  <td> Full-Featured Decimal Calculator </td>   <td> ⌘ ^ S </td>  <td> No<sup>*</sup> </td></tr>
+<tr><td> Programmer </td>  <td> Useful Operations for Programming </td>  <td> ⌘ ^ P </td>  <td> No<sup>*</sup> </td></tr>
 
 </table>
 
