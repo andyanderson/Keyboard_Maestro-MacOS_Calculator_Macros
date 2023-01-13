@@ -21,24 +21,25 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> Rand     </td>   <td> 0 ≤ Random Number < 1</td>     <td> R         </td>  <td> No </td></tr>
 
 <tr><td rowspan=7> Basic Operations </td>
-    <td> <var>x</var> – <var>y</var> </td> <td> Subtraction </td>           <td> - </td>                                <td> Yes </td></tr>
-<tr><td> <var>x</var> ÷ <var>y</var> </td> <td> Division </td>              <td> / </td>                                <td> Yes </td></tr>
-<tr><td> <var>x</var> + <var>y</var> </td> <td> Addition </td>              <td> + &nbsp;<var>aka</var>&nbsp; ⇧ = </td> <td> Yes </td></tr>
-<tr><td> <var>x</var> × <var>y</var> </td> <td> Multiplication </td>        <td> * &nbsp;<var>aka</var>&nbsp; ⇧ 8 </td> <td> Yes </td></tr>
-<tr><td> <var>x</var> ÷ 100 </td>          <td> Percentage to Decimal </td> <td> % &nbsp;<var>aka</var>&nbsp; ⇧ 5 </td> <td> Yes </td></tr>
-<tr><td rowspan=2> ±<var>x</var> </td>     <td rowspan=2> Negation </td>    <td> ⌥ - </td>                              <td> Yes </td></tr>
-<tr>                                                                        <td> ⇧ - </td>                              <td> No </td></tr>
+    <td> – </td>            <td> Subtraction </td>                   <td> - </td>                                <td> Yes </td></tr>
+<tr><td> ÷ </td>            <td> Division </td>                      <td> / </td>                                <td> Yes </td></tr>
+<tr><td> + </td>            <td> Addition </td>                      <td> + &nbsp;<var>aka</var>&nbsp; ⇧ = </td> <td> Yes </td></tr>
+<tr><td> × </td>            <td> Multiplication </td>                <td> * &nbsp;<var>aka</var>&nbsp; ⇧ 8 </td> <td> Yes </td></tr>
+<tr><td> % </td>            <td> Percentage to Decimal, ÷ 100 </td>  <td> % &nbsp;<var>aka</var>&nbsp; ⇧ 5 </td> <td> Yes </td></tr>
+<tr><td rowspan=2> ± </td>  <td rowspan=2> Negation </td>            <td> ⌥ - </td>                              <td> Yes </td></tr>
+<tr>                                                                 <td> ⇧ - </td>                              <td> No </td></tr>
 
 <tr><td rowspan=9> Algebraic Functions </td>
-    <td> 1/<var>x</var> </td>                           <td> Inverse (Reciprocal) </td>   <td> ⇧ / </td>                             <td> No </td></tr>
-<tr><td> <var>x</var>! </td>                            <td> Factorial </td>              <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td><td> Yes </td></tr>
-<tr><td> <var>x</var> × 10<sup><var>y</var></sup> </td> <td> Scientific Notation </td>    <td> ⇧ E </td>                             <td> Yes </td></tr>
-<tr><td> <var>x</var><sup>2</sup> </td>                 <td> Square </td>                 <td> ⇧ 2 </td>                             <td> No </td></tr>
-<tr><td> <var>x</var><sup>3</sup> </td>                 <td> Cube </td>                   <td> ⇧ 3 </td>                             <td> No </td></tr>
-<tr><td> <var>x</var><sup><var>y</var></sup> </td>      <td> Power (Exponentiation) </td> <td> ^ &nbsp;<var>aka</var>&nbsp; ⇧ 6 </td><td> Yes </td></tr>
-<tr><td> √<var>x</var> </td>                            <td> Square Root </td>            <td> ⇧ ⌥ 2 </td>                           <td> No </td></tr>
-<tr><td> ∛<var>x</var> </td>                            <td> Cube Root </td>              <td> ⇧ ⌥ 3 </td>                           <td> No </td></tr>
-<tr><td> <sup><var>y</var></sup>√<var>x</var> </td>     <td> yth Root </td>               <td> ⇧ ⌥ 6 </td>                           <td> No </td></tr>
+    <td> 1/<var>x</var> </td>                        <td> Inverse (Reciprocal) </td>   <td> ⇧ / </td>                               <td> No </td></tr>
+<tr><td> <var>x</var>! </td>                         <td> Factorial </td>              <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td>  <td> Yes </td></tr>
+<tr><td> EE </td>                                    <td> Scientific Notation <var>x</var> × 10<sup><var>y</var></sup> </td>  
+                                                                                       <td> ⇧ E </td>                               <td> Yes </td></tr>
+<tr><td> <var>x</var><sup>2</sup> </td>              <td> Square </td>                 <td> ⇧ 2 </td>                               <td> No </td></tr>
+<tr><td> <var>x</var><sup>3</sup> </td>              <td> Cube </td>                   <td> ⇧ 3 </td>                               <td> No </td></tr>
+<tr><td> <var>x</var><sup><var>y</var></sup> </td>   <td> Power (Exponentiation) </td> <td> ^ &nbsp;<var>aka</var>&nbsp; ⇧ 6 </td>  <td> Yes </td></tr>
+<tr><td> √<var>x</var> </td>                         <td> Square Root </td>            <td> ⇧ ⌥ 2 </td>                             <td> No </td></tr>
+<tr><td> ∛<var>x</var> </td>                         <td> Cube Root </td>              <td> ⇧ ⌥ 3 </td>                             <td> No </td></tr>
+<tr><td> <sup><var>y</var></sup>√<var>x</var> </td>  <td> yth Root </td>               <td> ⇧ ⌥ 6 </td>                             <td> No </td></tr>
 
 <tr><td rowspan=8> Exponential & Logarithmic Functions </td>
     <td> 10<sup><var>x</var></sup> </td>       <td> Power of 10 </td>              <td> ⌘ 1 </td> <td> No<sup>*</sup> </td></tr>
