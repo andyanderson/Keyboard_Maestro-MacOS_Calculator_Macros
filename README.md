@@ -81,12 +81,12 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td rowspan=2> RoR </td>    <td rowspan=2> Rotate Right 1 Bit </td>         <td> → </td>                                 <td> No </td></tr>
 <tr>                                                                      <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td>  <td> Yes </td></tr>
 
-<tr><td rowspan=6> Numeration Bases and Encodings </td>
+<tr><td rowspan=6> Numeration Bases and Character Encodings </td>
     <td> 8 </td>        <td> Base 8 </td>                                  <td> ⌘ ^ 8 </td>  <td> No </td></tr>
 <tr><td> 10 </td>       <td> Base 10 </td>                                 <td> ⌘ ^ 0 </td>  <td> No </td></tr>
 <tr><td> 16 </td>       <td> Base 16  </td>                                <td> ⌘ ^ 6 </td>  <td> No </td></tr>
 <tr><td> 8 10 16 </td>  <td> Step Through Bases: 8 to 10 to 16 to 8 </td>  <td> R </td>      <td> Yes </td></tr>
-<tr><td> ASCII </td>    <td> Display ASCII Encoding </td>                  <td> I </td>      <td> No </td></tr>
+<tr><td> ASCII </td>    <td> Display ASCII Encoding </td>                  <td> S </td>      <td> No </td></tr>
 <tr><td> Unicode </td>  <td> Display Unicode Encoding </td>                <td> U </td>      <td> No </td></tr>
 
 <tr><td rowspan=9> Controls </td>
