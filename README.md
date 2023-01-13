@@ -32,7 +32,7 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td rowspan=9> Algebraic Functions </td>
     <td> 1/<var>x</var> </td>                        <td> Inverse (Reciprocal) </td>   <td> ⇧ / </td>                               <td> No </td></tr>
 <tr><td> <var>x</var>! </td>                         <td> Factorial </td>              <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td>  <td> Yes </td></tr>
-<tr><td> EE </td>                                    <td> Scientific Notation <var>x</var> × 10<sup><var>y</var></sup> </td>  
+<tr><td> EE </td>                                    <td> Scientific Notation, <var>x</var> × 10<sup><var>y</var></sup> </td>  
                                                                                        <td> ⇧ E </td>                               <td> Yes </td></tr>
 <tr><td> <var>x</var><sup>2</sup> </td>              <td> Square </td>                 <td> ⇧ 2 </td>                               <td> No </td></tr>
 <tr><td> <var>x</var><sup>3</sup> </td>              <td> Cube </td>                   <td> ⇧ 3 </td>                               <td> No </td></tr>
