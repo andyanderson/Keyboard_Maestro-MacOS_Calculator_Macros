@@ -20,14 +20,15 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> <i>φ</i> </td>   <td> 1.618… Golden Ratio</td>       <td> F         </td>  <td> No </td></tr>
 <tr><td> Rand     </td>   <td> 0 ≤ Random Number < 1</td>     <td> R         </td>  <td> No </td></tr>
 
-<tr><td rowspan=7> Basic Operations </td>
+<tr><td rowspan=8> Basic Operations </td>
     <td> – </td>            <td> Subtraction </td>                   <td> - </td>                                <td> Yes </td></tr>
 <tr><td> ÷ </td>            <td> Division </td>                      <td> / </td>                                <td> Yes </td></tr>
 <tr><td> + </td>            <td> Addition </td>                      <td> + &nbsp;<var>aka</var>&nbsp; ⇧ = </td> <td> Yes </td></tr>
 <tr><td> × </td>            <td> Multiplication </td>                <td> * &nbsp;<var>aka</var>&nbsp; ⇧ 8 </td> <td> Yes </td></tr>
 <tr><td> % </td>            <td> Percentage to Decimal, ÷ 100 </td>  <td> % &nbsp;<var>aka</var>&nbsp; ⇧ 5 </td> <td> Yes </td></tr>
-<tr><td rowspan=2> ± </td>  <td rowspan=2> Negation </td>            <td> ⌥ - </td>                              <td> Yes </td></tr>
-<tr>                                                                 <td> ⇧ - </td>                              <td> No </td></tr>
+<tr><td> 1/% </td>          <td> Decimal to Percentage, × 100 </td>  <td> ⇧ ⌥ 5 </td>                            <td> Yes </td></tr>
+<tr><td rowspan=2> ± </td>  <td rowspan=2> Negation </td>            <td> ⇧ - </td>                              <td> No </td></tr>
+<tr>                                                                 <td> ⌥ - </td>                              <td> Yes </td></tr>
 
 <tr><td rowspan=9> Algebraic Functions </td>
     <td> 1/<var>x</var> </td>                        <td> Inverse (Reciprocal) </td>   <td> ⇧ / </td>                               <td> No </td></tr>
