@@ -82,13 +82,13 @@ My key assignments are in the following table, using the following symbols for k
 <tr>                                                                      <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td>  <td> Yes </td></tr>
 
 <tr><td rowspan=7> Numeration Bases and<br/>Character Encodings </td>
-    <td> 2 </td>        <td> Show or Hide Binary </td>                     <td> ⌘ ^ 2 </td>  <td> No </td></tr>
-<tr><td> 8 </td>        <td> Base 8 </td>                                  <td> ⌘ ^ 8 </td>  <td> No </td></tr>
+    <td> 8 </td>        <td> Base 8 </td>                                  <td> ⌘ ^ 8 </td>  <td> No </td></tr>
 <tr><td> 10 </td>       <td> Base 10 </td>                                 <td> ⌘ ^ 0 </td>  <td> No </td></tr>
 <tr><td> 16 </td>       <td> Base 16  </td>                                <td> ⌘ ^ 6 </td>  <td> No </td></tr>
 <tr><td> 8 10 16 </td>  <td> Step Through Bases: 8 to 10 to 16 to 8 </td>  <td> R </td>      <td> Yes </td></tr>
-<tr><td> ASCII </td>    <td> Show or Hide ASCII Encoding </td>             <td> ⌘ ^ S </td>      <td> No </td></tr>
-<tr><td> Unicode </td>  <td> Show or Hide Unicode Encoding </td>           <td> ⌘ ^ U </td>      <td> No </td></tr>
+<tr><td> 2 </td>        <td> Show or Hide Binary Encoding</td>             <td> ⌘ B </td>    <td> No </td></tr>
+<tr><td> ASCII </td>    <td> Show or Hide ASCII Encoding </td>             <td> ⌘ A </td>    <td> No </td></tr>
+<tr><td> Unicode </td>  <td> Show or Hide Unicode Encoding </td>           <td> ⌘ U </td>    <td> No </td></tr>
 
 <tr><td rowspan=9> Controls </td>
     <td> = </td>          <td> Equals (Evaluate) </td>         <td> = &nbsp;<var>or</var> &nbsp; return </td>      <td> Yes </td></tr>
