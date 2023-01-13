@@ -66,7 +66,7 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> cosh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Cosine </td>   <td> ^ ⌥ C </td>  <td> No </td></tr>
 <tr><td> tanh⁻¹ <var>x</var> </td>  <td> Inverse Hyperbolic Tangent </td>  <td> ^ ⌥ T </td>  <td> No </td></tr>
 
-<tr><td rowspan=11> Bitwise Operations </td>
+<tr><td rowspan=13> Bitwise Operations </td>
     <td> AND </td>              <td> And </td>                            <td> & &nbsp;<var>aka</var>&nbsp; ⇧ 7 </td>  <td> Yes </td></tr>
 <tr><td> OR </td>               <td> Or </td>                             <td> | &nbsp;<var>aka</var>&nbsp; ⇧ \ </td>  <td> Yes </td></tr>
 <tr><td> XOR </td>              <td> Exclusive Or </td>                   <td> ^ &nbsp;<var>aka</var>&nbsp; ⇧ ` </td>  <td> No<sup>*</sup> </td></tr>
