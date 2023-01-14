@@ -77,10 +77,10 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> 2's </td>              <td> 2's Complement </td>                 <td> ` </td>                                 <td> No </td></tr>
 <tr><td> << </td>               <td> Shift Left 1 Bit </td>               <td> < &nbsp;<var>aka</var>&nbsp; ⇧ , </td>  <td> Yes </td></tr>
 <tr><td> >> </td>               <td> Shift Right 1 Bit </td>              <td> > &nbsp;<var>aka</var>&nbsp; ⇧ . </td>  <td> Yes </td></tr>
-<tr><td> << <var>y</var> </td>  <td> Shift Left <var>y</var> Bits </td>   <td> , </td>                                 <td> No </td></tr>
-<tr><td> >> <var>y</var> </td>  <td> Shift Right <var>y</var> Bits </td>  <td> . </td>                                 <td> No </td></tr>
-<tr><td> RoL </td>              <td> Rotate Left 1 Bit </td>                    <td> ← </td>                                 <td> No </td></tr>
-<tr><td rowspan=2> RoR </td>    <td rowspan=2> Rotate Right 1 Bit </td>         <td> → </td>                                 <td> No </td></tr>
+<tr><td> << <var>y</var> </td>  <td> Shift Left <var>y</var> Bits </td>   <td> ⌘ , </td>                                 <td> No </td></tr>
+<tr><td> >> <var>y</var> </td>  <td> Shift Right <var>y</var> Bits </td>  <td> ⌘ . </td>                                 <td> No </td></tr>
+<tr><td> RoL </td>              <td> Rotate Left 1 Bit </td>              <td> ← </td>                                 <td> No </td></tr>
+<tr><td rowspan=2> RoR </td>    <td rowspan=2> Rotate Right 1 Bit </td>   <td> → </td>                                 <td> No </td></tr>
 <tr>                                                                      <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td>  <td> Yes </td></tr>
 
 <tr><td rowspan=7> Numeration Bases and<br/>Character Encodings </td>
