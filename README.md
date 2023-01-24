@@ -71,7 +71,7 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td rowspan=13> Bitwise Operations </td>
     <td> AND </td>              <td> And </td>                            <td> & &nbsp;<var>aka</var>&nbsp; ⇧ 7 </td>  <td> Yes </td></tr>
 <tr><td> OR </td>               <td> Or </td>                             <td> | &nbsp;<var>aka</var>&nbsp; ⇧ \ </td>  <td> Yes </td></tr>
-<tr><td> XOR </td>              <td> Exclusive Or </td>                   <td> ^ &nbsp;<var>aka</var>&nbsp; ⇧ ` </td>  <td> No<sup>*</sup> </td></tr>
+<tr><td> XOR </td>              <td> Exclusive Or </td>                   <td> ^ &nbsp;<var>aka</var>&nbsp; ⇧ 6 </td>  <td> No<sup>*</sup> </td></tr>
 <tr><td> NOR </td>              <td> Nor </td>                            <td> ↓ </td>                                 <td> No </td></tr>
 <tr><td> 1's </td>              <td> 1's Complement (NOT) </td>           <td> ~ &nbsp;<var>aka</var>&nbsp; ⇧ ` </td>  <td> No<sup>*</sup> </td></tr>
 <tr><td> 2's </td>              <td> 2's Complement </td>                 <td> ` </td>                                 <td> No </td></tr>
