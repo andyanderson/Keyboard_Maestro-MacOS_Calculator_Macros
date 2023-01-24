@@ -69,19 +69,19 @@ My key assignments are in the following table, using the following symbols for k
 <tr><td> tanh⁻¹ </td>  <td> Inverse Hyperbolic Tangent </td>  <td> ^ ⌥ T </td>  <td> No </td></tr>
 
 <tr><td rowspan=13> Bitwise Operations </td>
-    <td> AND </td>              <td> And </td>                            <td> & &nbsp;<var>aka</var>&nbsp; ⇧ 7 </td>  <td> Yes </td></tr>
-<tr><td> OR </td>               <td> Or </td>                             <td> | &nbsp;<var>aka</var>&nbsp; ⇧ \ </td>  <td> Yes </td></tr>
-<tr><td> XOR </td>              <td> Exclusive Or </td>                   <td> ^ &nbsp;<var>aka</var>&nbsp; ⇧ 6 </td>  <td> No<sup>*</sup> </td></tr>
-<tr><td> NOR </td>              <td> Nor </td>                            <td> ↓ </td>                                 <td> No </td></tr>
-<tr><td> 1's </td>              <td> 1's Complement (NOT) </td>           <td> ~ &nbsp;<var>aka</var>&nbsp; ⇧ ` </td>  <td> No<sup>*</sup> </td></tr>
-<tr><td> 2's </td>              <td> 2's Complement </td>                 <td> ` </td>                                 <td> No </td></tr>
-<tr><td> << </td>               <td> Shift Left 1 Bit </td>               <td> < &nbsp;<var>aka</var>&nbsp; ⇧ , </td>  <td> Yes </td></tr>
-<tr><td> >> </td>               <td> Shift Right 1 Bit </td>              <td> > &nbsp;<var>aka</var>&nbsp; ⇧ . </td>  <td> Yes </td></tr>
-<tr><td> << <var>y</var> </td>  <td> Shift Left <var>y</var> Bits </td>   <td> ⌘ , </td>                                 <td> No </td></tr>
-<tr><td> >> <var>y</var> </td>  <td> Shift Right <var>y</var> Bits </td>  <td> ⌘ . </td>                                 <td> No </td></tr>
-<tr><td> RoL </td>              <td> Rotate Left 1 Bit </td>              <td> ← </td>                                 <td> No </td></tr>
-<tr><td rowspan=2> RoR </td>    <td rowspan=2> Rotate Right 1 Bit </td>   <td> → </td>                                 <td> No </td></tr>
-<tr>                                                                      <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td>  <td> Yes </td></tr>
+    <td> AND </td>              <td> And </td>                                   <td> & &nbsp;<var>aka</var>&nbsp; ⇧ 7 </td>  <td> Yes </td></tr>
+<tr><td> OR </td>               <td> Or </td>                                    <td> | &nbsp;<var>aka</var>&nbsp; ⇧ \ </td>  <td> Yes </td></tr>
+<tr><td> XOR </td>              <td> Exclusive Or </td>                          <td> ^ &nbsp;<var>aka</var>&nbsp; ⇧ 6 </td>  <td> No<sup>*</sup> </td></tr>
+<tr><td> NOR </td>              <td> Nor </td>                                   <td> ↓ </td>                                 <td> No </td></tr>
+<tr><td> 1's </td>              <td> 1's Complement (NOT) </td>                  <td> ~ &nbsp;<var>aka</var>&nbsp; ⇧ ` </td>  <td> No<sup>*</sup> </td></tr>
+<tr><td> 2's </td>              <td> 2's Complement </td>                        <td> ` </td>                                 <td> No </td></tr>
+<tr><td> << </td>               <td> Shift Left 1 Bit </td>                      <td> < &nbsp;<var>aka</var>&nbsp; ⇧ , </td>  <td> Yes </td></tr>
+<tr><td> >> </td>               <td> Shift Right 1 Bit </td>                     <td> > &nbsp;<var>aka</var>&nbsp; ⇧ . </td>  <td> Yes </td></tr>
+<tr><td> << <var>y</var> </td>  <td> Shift Left <var>y</var> Bits </td>          <td> ⌘ , </td>                               <td> No </td></tr>
+<tr><td> >> <var>y</var> </td>  <td> Shift Right <var>y</var> Bits </td>         <td> ⌘ . </td>                               <td> No </td></tr>
+<tr><td> RoL </td>              <td> Rotate Left 1 Bit (Double) </td>            <td> ← </td>                                 <td> No </td></tr>
+<tr><td rowspan=2> RoR </td>    <td rowspan=2> Rotate Right 1 Bit (Halve) </td>  <td> → </td>                                 <td> No </td></tr>
+<tr>                                                                             <td> ! &nbsp;<var>aka</var>&nbsp; ⇧ 1 </td>  <td> Yes </td></tr>
 
 <tr><td rowspan=7> Numeration Bases and<br/>Character Encodings </td>
     <td> 8 </td>        <td> Base 8 </td>                                  <td> ⌘ ^ 8 </td>  <td> No </td></tr>
